@@ -1,0 +1,1701 @@
+address,price_$,beds,bath,place,size_sq.ft
+1866 20th Ave,294900,1.0,1.0,"Arkdale, WI, 54613",964.0
+1639 Pine St,89500,2.0,1.0,"Arkdale, WI, 54613",924.0
+6 Ac County Road Z,199900,6.0,,"Arkdale, WI, 54613",
+1827 E County Road Z,98900,9.0,,"Arkdale, WI, 54613",
+1644 20th Ave,475000,3.0,2.0,"Arkdale, WI, 54613",2184.0
+2054 Cumberland Ave,179000,4.0,1.0,"Arkdale, WI, 54613",1744.0
+1841 20th Ct,359000,3.0,2.0,"Arkdale, WI, 54613",1689.0
+2011-4 S Czech Crossing 3004,359900,4.0,2.0,"Arkdale, WI, 54613",2238.0
+2009-7 S Czech Ct 0907,359000,3.0,2.0,"Arkdale, WI, 54613",2132.0
+1988 Cumberland Dr,139900,1.0,1.0,"Arkdale, WI, 54613",580.0
+Lot 25 19th Pass,119900,1.0,,"Arkdale, WI, 54613",
+Lot 169 19th Crossing,29900,1.0,,"Arkdale, WI, 54613",
+1769 N Badger Dr,109900,0.83,,"Arkdale, WI, 54613",
+1959 N Cypress Ln,165000,2.0,1.0,"Arkdale, WI, 54613",960.0
+1683 Browndeer Ave,330000,3.0,2.0,"Arkdale, WI, 54613",2000.0
+1844-7 E 20th Ct 2507,350000,3.0,2.0,"Arkdale, WI, 54613",2132.0
+L73 Badger Ct,95000,0.0,,"Arkdale, WI, 54613",
+734 & 736 W 17th Dr,159000,3.0,2.0,"Arkdale, WI, 54613",1026.0
+1952 Hwy 21,85000,2.0,2.0,"Arkdale, WI, 54613",1344.0
+L7 Badger Ct,35900,1.08,,"Arkdale, WI, 54613",
+L4 S Badger Ct,33900,1.72,,"Arkdale, WI, 54613",
+Lot 1 Cottonville Dr & 20th Ave,29900,5.0,,"Arkdale, WI, 54613",
+1114 W 15th Ave,234900,2.0,2.0,"Arkdale, WI, 54613",1344.0
+1951 Cypress Ln,129900,2.0,1.0,"Arkdale, WI, 54613",936.0
+L17 W 17th Ln,50000,1.0,,"Arkdale, WI, 54613",
+722 W 17th Drive,99000,2.0,1.0,"Arkdale, WI, 54613",787.0
+761 18th Ave,480000,4.0,3.0,"Arkdale, WI, 54613",2396.0
+L31 S Badger Ct,28750,1.58,,"Arkdale, WI, 54613",
+L40 18th Ave,22500,1.56,,"Arkdale, WI, 54613",
+1603 North Shore Dr,60000,0.5,,"Arkdale, WI, 54613",
+1501 Browndeer Ave,52500,3.07,,"Arkdale, WI, 54613",
+L9 W 19th Ln,19000,0.47,,"Arkdale, WI, 54613",
+891 County Road Z,2950000,79.48,,"Arkdale, WI, 54613",
+1994 Cumberland Dr,24900,0.92,,"Arkdale, WI, 54613",
+L14 W 19th Ln,571100,4.0,3.0,"Arkdale, WI, 54613",2299.0
+L24 S Czech Ct,343200,3.0,2.0,"Arkdale, WI, 54613",1288.0
+3 Lots Northern Bay,55000,1.49,,"Arkdale, WI, 54613",
+Lot 16 S Cree Ln,29900,2.35,,"Arkdale, WI, 54613",
+L17 W 16th Ct,31700,2.98,,"Arkdale, WI, 54613",
+Lot 29 19th Pass,189900,1.12,,"Arkdale, WI, 54613",
+L26 19th Pass,119900,1.18,,"Arkdale, WI, 54613",
+1866 20th Ave,294900,1.0,1.0,"Arkdale, WI, 54613",964.0
+1639 Pine St,89500,2.0,1.0,"Arkdale, WI, 54613",924.0
+6 Ac County Road Z,199900,6.0,,"Arkdale, WI, 54613",
+1827 E County Road Z,98900,9.0,,"Arkdale, WI, 54613",
+1644 20th Ave,475000,3.0,2.0,"Arkdale, WI, 54613",2184.0
+2054 Cumberland Ave,179000,4.0,1.0,"Arkdale, WI, 54613",1744.0
+1841 20th Ct,359000,3.0,2.0,"Arkdale, WI, 54613",1689.0
+2011-4 S Czech Crossing 3004,359900,4.0,2.0,"Arkdale, WI, 54613",2238.0
+2009-7 S Czech Ct 0907,359000,3.0,2.0,"Arkdale, WI, 54613",2132.0
+1988 Cumberland Dr,139900,1.0,1.0,"Arkdale, WI, 54613",580.0
+Lot 25 19th Pass,119900,1.0,,"Arkdale, WI, 54613",
+Lot 169 19th Crossing,29900,1.0,,"Arkdale, WI, 54613",
+1769 N Badger Dr,109900,0.83,,"Arkdale, WI, 54613",
+1959 N Cypress Ln,165000,2.0,1.0,"Arkdale, WI, 54613",960.0
+1683 Browndeer Ave,330000,3.0,2.0,"Arkdale, WI, 54613",2000.0
+1844-7 E 20th Ct 2507,350000,3.0,2.0,"Arkdale, WI, 54613",2132.0
+L73 Badger Ct,95000,0.0,,"Arkdale, WI, 54613",
+734 & 736 W 17th Dr,159000,3.0,2.0,"Arkdale, WI, 54613",1026.0
+1952 Hwy 21,85000,2.0,2.0,"Arkdale, WI, 54613",1344.0
+16th Dr,68900,3.12,,"Adams, WI, 53910",
+1382 Edgewood Dr,149900,4.0,2.0,"Adams, WI, 53910",2052.0
+2848 Hwy 13,174900,2.0,1.0,"Adams, WI, 53910",2104.0
+974 County Road E,139900,3.0,1.0,"Adams, WI, 53910",1258.0
+209 N Pine St,64900,2.0,1.0,"Adams, WI, 53910",576.0
+333 S Walker St,229900,4.0,2.0,"Adams, WI, 53910",3283.0
+2731 9th Dr,499900,3.0,2.0,"Adams, WI, 53910",2128.0
+332 S Pierce St,199900,3.0,1.0,"Adams, WI, 53910",1276.0
+1199 Fawn Dr,64900,1.0,,"Adams, WI, 53936",
+N7160 Waters Edge Rd,99500,1.84,,"Adams, WI, 54615",
+2285 11th Ave,469900,2.0,2.0,"Adams, WI, 53910",1400.0
+225 S Linden St,43500,3.0,1.0,"Adams, WI, 53910",1176.0
+164 S Walker St,63800,1.0,1.0,"Adams, WI, 53910",576.0
+16th Dr,68900,3.12,,"Adams, WI, 53910",
+2640 14th Ct,52900,5.5,,"Adams, WI, 53910",
+1378 Dyke Dr,749900,3.0,2.0,"Adams, WI, 53910",
+L21 N Duck Creek Ct,25000,0.52,,"Adams, WI, 53910",
+814 Elk Ave,259000,35.0,,"Adams, WI, 53910",
+Lot 38 Timber Bay Ave,57000,1.72,,"Adams, WI, 53934",
+1026 County Road M Lot 88,24000,2.0,1.0,"Adams, WI, 53910",465.0
+1049 Deerborn Ave,295000,,,"Adams, WI, 53934",
+363 Twin Lakes Tr,74900,1.35,,"Adams, WI, 54457",
+Lot 1 Ember Dr,42500,0.89,,"Adams, WI, 53910",
+Lot 2 Ember Dr,46500,1.5,,"Adams, WI, 53910",
+Lot 35 S Duck Creek Ave,8900,0.46,,"Adams, WI, 53934",
+1091 Ember Dr,225000,2.0,2.0,"Adams, WI, 53910",1056.0
+L15 Timber Bay Ave,65000,1.88,,"Adams, WI, 53934",
+16th Dr,68900,3.12,,"Adams, WI, 53910",
+1382 Edgewood Dr,149900,4.0,2.0,"Adams, WI, 53910",2052.0
+2848 Hwy 13,174900,2.0,1.0,"Adams, WI, 53910",2104.0
+974 County Road E,139900,3.0,1.0,"Adams, WI, 53910",1258.0
+209 N Pine St,64900,2.0,1.0,"Adams, WI, 53910",576.0
+333 S Walker St,229900,4.0,2.0,"Adams, WI, 53910",3283.0
+2731 9th Dr,499900,3.0,2.0,"Adams, WI, 53910",2128.0
+332 S Pierce St,199900,3.0,1.0,"Adams, WI, 53910",1276.0
+1199 Fawn Dr,64900,1.0,,"Adams, WI, 53936",
+N7160 Waters Edge Rd,99500,1.84,,"Adams, WI, 54615",
+2285 11th Ave,469900,2.0,2.0,"Adams, WI, 53910",1400.0
+225 S Linden St,43500,3.0,1.0,"Adams, WI, 53910",1176.0
+164 S Walker St,63800,1.0,1.0,"Adams, WI, 53910",576.0
+16th Dr,68900,3.12,,"Adams, WI, 53910",
+2640 14th Ct,52900,5.5,,"Adams, WI, 53910",
+1378 Dyke Dr,749900,3.0,2.0,"Adams, WI, 53910",
+L21 N Duck Creek Ct,25000,0.52,,"Adams, WI, 53910",
+814 Elk Ave,259000,35.0,,"Adams, WI, 53910",
+Lot 38 Timber Bay Ave,57000,1.72,,"Adams, WI, 53934",
+900 20th Ave S 1410,725000,1.0,1.0,"Nashville, TN, 37212",1276.0
+1260 Martin St 409,524500,2.0,2.0,"Nashville, TN, 37203",1125.0
+7478 River Road Pike,1750000,3.0,4.0,"Nashville, TN, 37209",4175.0
+5922B Carl Pl,640000,3.0,3.0,"Nashville, TN, 37209",1980.0
+2308B Lloyd Ave,499900,3.0,3.0,"Nashville, TN, 37218",1853.0
+834 Woodmont Blvd,749000,3.0,2.0,"Nashville, TN, 37204",1680.0
+805 Cherokee Ave 4,469900,2.0,3.0,"Nashville, TN, 37207",1100.0
+805 Cherokee Ave 3,469900,2.0,3.0,"Nashville, TN, 37207",1100.0
+1104B Cecilia Ave,865000,4.0,4.0,"Nashville, TN, 37208",2792.0
+5812 Woodland Hills Dr,1799000,5.0,5.0,"Nashville, TN, 37211",5063.0
+3101 Lumberjack Rd,450000,4.0,4.0,"Nashville, TN, 37214",2372.0
+1915A 15th Ave N,629900,4.0,3.0,"Nashville, TN, 37208",2055.0
+4001 Anderson Rd H43,275000,3.0,2.0,"Nashville, TN, 37217",1583.0
+805 Cherokee Ave 5,469900,2.0,3.0,"Nashville, TN, 37207",1100.0
+217 Andover Way,780000,3.0,3.0,"Nashville, TN, 37221",3167.0
+271 Garry Dr,285000,3.0,1.0,"Nashville, TN, 37211",1014.0
+4401 Kentucky Ave,9000000,,,"Nashville, TN, 37209",
+0 Whipple Place,150000,1.0,,"Nashville, TN, 37214",
+4405 Kentucky Ave,8000000,,,"Nashville, TN, 37209",
+5414 Tennessee Ave,579900,0.0,,"Nashville, TN, 37209",
+331 Lawndale,899900,4.0,3.0,"Nashville, TN, 37217",2495.0
+574 Harpeth Bend Dr,289000,2.0,2.0,"Nashville, TN, 37221",960.0
+4102 Granny White Pike Ab,2000000,5.0,4.0,"Nashville, TN, 37204",3003.0
+0 Whitsett,2200000,2.02,,"Nashville, TN, 37210",
+0 Tuggle Ave,720000,1.64,,"Nashville, TN, 37211",
+1604 E Stewarts Ln E,299900,0.52,,"Nashville, TN, 37218",
+2809 Red Clover Ct,489000,4.0,4.0,"Nashville, TN, 37218",3081.0
+2509 Scovel St,400000,0.0,,"Nashville, TN, 37208",
+1705 Underwood St,355000,3.0,1.0,"Nashville, TN, 37208",1055.0
+902 Briarwood Crst,1375000,4.0,4.0,"Nashville, TN, 37221",3896.0
+2064 Leeds Ln,499900,3.0,3.0,"Nashville, TN, 37221",1924.0
+302 Doe Ridge Ct,280000,2.0,3.0,"Nashville, TN, 37214",1380.0
+4308 Morriswood Dr,875000,0.0,,"Nashville, TN, 37204",
+8046 River Road Pike,794500,33.0,,"Nashville, TN, 37209",
+1145 Balbade Dr,2079999,5.0,4.0,"Nashville, TN, 37215",4821.0
+821 Dewees Ave,2499000,5.0,4.0,"Nashville, TN, 37204",4241.0
+3325 Panorama Dr,350000,3.0,2.0,"Nashville, TN, 37218",1050.0
+6204 Morrow Rd B,895000,5.0,5.0,"Nashville, TN, 37209",3144.0
+202 Lucile Ln,565000,2.0,3.0,"Nashville, TN, 37207",1326.0
+1118 Litton Ave A107,274900,1.0,1.0,"Nashville, TN, 37216",754.0
+0 River View Dr,6000000,21.85,,"Nashville, TN, 37209",
+6637 Jocelyn Hollow Rd,1600000,3.0,4.0,"Nashville, TN, 37205",3600.0
+1240 Massman Dr,272000,2.0,2.0,"Nashville, TN, 37217",1160.0
+415 Church St 2004,499900,1.0,1.0,"Nashville, TN, 37219",732.0
+1013 Argyle Ave B,1600000,4.0,5.0,"Nashville, TN, 37203",3691.0
+2903 Woodlawn Dr,1380000,4.0,3.0,"Nashville, TN, 37215",3188.0
+3452 Crestridge Dr,855000,3.0,3.0,"Nashville, TN, 37204",2378.0
+502 N 17th St,1250000,4.0,2.0,"Nashville, TN, 37206",2609.0
+920 South Street 103,850000,2.0,2.0,"Nashville, TN, 37203",1118.0
+600 12th Ave S 726,539000,1.0,1.0,"Nashville, TN, 37203",822.0
+1700 Sherwood Lane A,950000,3.0,4.0,"Nashville, TN, 37216",2849.0
+2601 Lincoya Dr,575000,3.0,2.0,"Nashville, TN, 37214",2438.0
+2025 Woodmont Blvd 232,475000,2.0,2.0,"Nashville, TN, 37215",1233.0
+415 Church St 1504,489000,1.0,1.0,"Nashville, TN, 37219",732.0
+853 Stirrup Dr,899000,4.0,4.0,"Nashville, TN, 37221",4728.0
+2640 Woodberry Dr,449900,3.0,2.0,"Nashville, TN, 37214",1317.0
+391 Normandy Cir,540000,2.0,3.0,"Nashville, TN, 37209",1832.0
+405 Midnight Sun Cir,459999,3.0,3.0,"Nashville, TN, 37211",1791.0
+1525 Constitution Ave,493900,4.0,3.0,"Nashville, TN, 37207",3011.0
+1612 Cahal Ave B,825000,3.0,3.0,"Nashville, TN, 37206",2436.0
+4600 Shys Hill Rd,4500000,5.0,7.0,"Nashville, TN, 37215",7108.0
+1119 Waggoner Ct W,299900,3.0,2.0,"Nashville, TN, 37214",1270.0
+214 Stewarts Ferry Pike,1100000,3.0,2.0,"Nashville, TN, 37214",3900.0
+2916 Murray Cir,499900,3.0,2.0,"Nashville, TN, 37216",1268.0
+5411 Illinois Ave,298000,2.0,1.0,"Nashville, TN, 37209",660.0
+5436 Village Way,449900,3.0,2.0,"Nashville, TN, 37211",2154.0
+921 Bowring Park,1895000,4.0,6.0,"Nashville, TN, 37215",4449.0
+530 Vernon Cir,649900,3.0,4.0,"Nashville, TN, 37209",2185.0
+1902 Hailey Ave B,739999,3.0,4.0,"Nashville, TN, 37218",2600.0
+1315 Lone Oak Cir,3890000,6.0,6.0,"Nashville, TN, 37215",6433.0
+5212 Elkins Ave,585000,2.0,1.0,"Nashville, TN, 37209",828.0
+3724 Hillbrook Dr,315000,3.0,2.0,"Nashville, TN, 37211",1100.0
+2339 Creekland View Blvd,434990,3.0,3.0,"Nashville, TN, 37207",2339.0
+1433 Beddington Park,300000,1.25,,"Nashville, TN, 37215",
+3325B Niagara Dr,300000,3.0,3.0,"Nashville, TN, 37214",2268.0
+3203 Resha,469999,3.0,1.0,"Nashville, TN, 37218",1021.0
+1718 Arthur Ave,688000,4.0,3.0,"Nashville, TN, 37208",2052.0
+1217 Luckett Rd,1299900,5.0,4.0,"Nashville, TN, 37221",3051.0
+3718 Homeland Dr,199900,1.0,,"Nashville, TN, 37218",
+1313 Crestfield Dr,474947,3.0,3.0,"Nashville, TN, 37211",1849.0
+33 Perkins St,795000,4.0,4.0,"Nashville, TN, 37210",2400.0
+403 River Rouge Ct,699500,5.0,3.0,"Nashville, TN, 37209",3180.0
+122 38th Ave N,2199000,6.0,6.0,"Nashville, TN, 37209",4863.0
+2340 Alteras Dr,555000,3.0,3.0,"Nashville, TN, 37211",2053.0
+515 Avondale Park Blvd,499000,3.0,3.0,"Nashville, TN, 37221",1820.0
+4134 W Hamilton Rd,659900,4.0,3.0,"Nashville, TN, 37218",3700.0
+1609 Otter Creek Rd,4200000,5.0,6.0,"Nashville, TN, 37215",6261.0
+4105 Estes Rd,1799000,5.0,5.0,"Nashville, TN, 37215",4292.0
+644 Jackson Falls Dr,1803500,4.0,4.0,"Nashville, TN, 37221",3722.0
+407 S 10th St # A,850000,3.0,3.0,"Nashville, TN, 37206",2650.0
+282 Hillsboro Pl,365000,2.0,2.0,"Nashville, TN, 37215",1048.0
+6123 Louisiana Ave A,764900,3.0,3.0,"Nashville, TN, 37209",2270.0
+2603 Woodyhill Dr,349900,3.0,1.0,"Nashville, TN, 37207",872.0
+1709 Timber Pt,499800,5.0,3.0,"Nashville, TN, 37214",1816.0
+5023 Packard Dr,374473,3.0,2.0,"Nashville, TN, 37211",1459.0
+1038 Cone Blvd,459000,4.0,3.0,"Nashville, TN, 37207",1903.0
+3836 Lake Aire Dr,439900,3.0,2.0,"Nashville, TN, 37217",2510.0
+7172 Bay Cove Trl,629900,4.0,3.0,"Nashville, TN, 37221",2266.0
+1025 Carolyn Ave E,1150000,6.0,3.0,"Nashville, TN, 37216",4019.0
+905 Coarsey Dr,155000,1.0,1.0,"Nashville, TN, 37217",777.0
+4312 Sunnybrook Dr,1250000,2.0,1.0,"Nashville, TN, 37205",1164.0
+106 Lutie St,369900,2.0,1.0,"Nashville, TN, 37210",1120.0
+615 Old Hickory Blvd 603,386990,2.0,3.0,"Nashville, TN, 37209",1209.0
+4356 Skyridge Dr,506270,4.0,3.0,"Nashville, TN, 37207",2018.0
+615 Old Hickory Blvd 632,408990,2.0,3.0,"Nashville, TN, 37209",1209.0
+615 Old Hickory Blvd 619,394990,2.0,3.0,"Nashville, TN, 37209",1209.0
+335 Shady Creek Ln,479900,3.0,3.0,"Nashville, TN, 37211",1716.0
+1000 Elvira Ave,410000,2.0,1.0,"Nashville, TN, 37216",1120.0
+4814 E Longdale Dr,639900,3.0,3.0,"Nashville, TN, 37211",2152.0
+192 Chilton St,549900,3.0,2.0,"Nashville, TN, 37211",1851.0
+1702 Stokes Ln,1699000,3.0,4.0,"Nashville, TN, 37215",3702.0
+407 Scott Ave,1450000,5.0,5.0,"Nashville, TN, 37206",3900.0
+3912 Trimble Rd,1975000,5.0,4.0,"Nashville, TN, 37215",4340.0
+756 Darden Pl,3990000,4.0,5.0,"Nashville, TN, 37205",6159.0
+200 Treutland Ave,895000,5.0,4.0,"Nashville, TN, 37207",3907.0
+7333 Althorp Way,445000,3.0,4.0,"Nashville, TN, 37211",2282.0
+2201 8th Ave S 408,799000,2.0,2.0,"Nashville, TN, 37204",1312.0
+700 Amberwood Pl,1350000,4.0,4.0,"Nashville, TN, 37221",4236.0
+910B Maynor St,724900,4.0,3.0,"Nashville, TN, 37216",2412.0
+1009B Alice St,749900,3.0,3.0,"Nashville, TN, 37218",2464.0
+503 Summit St,875000,4.0,4.0,"Nashville, TN, 37209",2644.0
+505 Summit St,875000,4.0,4.0,"Nashville, TN, 37209",2644.0
+231 Graylynn Dr,575000,3.0,3.0,"Nashville, TN, 37214",2000.0
+2435 Chapman Dr,925000,3.0,3.0,"Nashville, TN, 37206",2392.0
+201 White Ct,1200000,5.0,4.0,"Nashville, TN, 37211",3715.0
+2507 N 16th St,779900,3.0,3.0,"Nashville, TN, 37206",2350.0
+627 27th Ave N 6,999000,3.0,4.0,"Nashville, TN, 37209",1979.0
+228 Highland Villa Cir,374900,3.0,2.0,"Nashville, TN, 37211",2171.0
+5025 Hillsboro Pike Apt 14X,299999,1.0,1.0,"Nashville, TN, 37215",837.0
+1112 Sharpe Ave,709900,3.0,2.0,"Nashville, TN, 37206",2017.0
+116 Shadow Glen Dr,319900,2.0,3.0,"Nashville, TN, 37211",1216.0
+510 Hemstead St,650000,4.0,3.0,"Nashville, TN, 37209",2143.0
+243 Wheeler Ave,494700,3.0,2.0,"Nashville, TN, 37211",1300.0
+231 Rep John Lewis Way N 501,2100000,3.0,3.0,"Nashville, TN, 37219",2670.0
+4341 Goins Rd,499900,4.0,3.0,"Nashville, TN, 37211",1840.0
+2515 Stinson Rd,600000,4.0,3.0,"Nashville, TN, 37214",1900.0
+1224 Quail Rd,230000,3.0,2.0,"Nashville, TN, 37214",1270.0
+1212 Laurel St 1804,1250000,2.0,2.0,"Nashville, TN, 37203",1394.0
+2201 8th Ave,799000,2.0,2.0,"Nashville, TN, 37204",1312.0
+4699 Ridge Bend Dr,413770,3.0,3.0,"Nashville, TN, 37207",1601.0
+805 Cherokee Ave 6,474900,2.0,3.0,"Nashville, TN, 37207",1100.0
+799 Carsten St,2099900,4.0,4.0,"Nashville, TN, 37221",4521.0
+2003 Pinecrest Dr,315000,2.0,3.0,"Nashville, TN, 37211",1188.0
+2913 River Bend Dr,429900,4.0,2.0,"Nashville, TN, 37214",1768.0
+3139 Long Blvd 101,349900,1.0,1.0,"Nashville, TN, 37203",712.0
+2223A 24th Ave N,695000,3.0,4.0,"Nashville, TN, 37208",2156.0
+1226 N 2nd St,433000,2.0,1.0,"Nashville, TN, 37207",1058.0
+1814 Willow Springs Dr,620000,3.0,2.0,"Nashville, TN, 37216",1414.0
+313 Kingview Dr,330000,4.0,2.0,"Nashville, TN, 37218",1511.0
+6069 Pasquo Rd,1699900,4.0,4.0,"Nashville, TN, 37221",3878.0
+2134 Fairfax Ave Apt A11,217500,1.0,1.0,"Nashville, TN, 37212",552.0
+1677 54th Ave N 134,449858,2.0,2.0,"Nashville, TN, 37209",1146.0
+4353 Skyridge Dr,464170,4.0,3.0,"Nashville, TN, 37207",1934.0
+4324 Skyridge Dr,492570,3.0,3.0,"Nashville, TN, 37207",1749.0
+2020 Castleman Dr,1200000,4.0,2.0,"Nashville, TN, 37215",3461.0
+4107 Saunders Ave,239500,0.71,,"Nashville, TN, 37216",
+4109 Saunders Ave,249500,0.71,,"Nashville, TN, 37216",
+1501 Pineview Dr,360000,3.0,2.0,"Nashville, TN, 37207",1180.0
+505 Croley Dr,900000,4.0,4.0,"Nashville, TN, 37209",2422.0
+5809 Woodland Hills Dr,295000,0.27,,"Nashville, TN, 37211",
+4128 Ashland City Hwy,1100000,2.49,,"Nashville, TN, 37218",
+2403 Belmont Blvd,2650000,3.0,4.0,"Nashville, TN, 37212",3515.0
+1108 Cabana Dr,285000,2.0,1.0,"Nashville, TN, 37214",1127.0
+1217 Nichol Ln,1400000,0.0,,"Nashville, TN, 37205",
+4303 Earlene Dr,685000,3.0,3.0,"Nashville, TN, 37216",1761.0
+4131 W Hamilton Rd,725000,4.0,6.0,"Nashville, TN, 37218",5460.0
+8848 Highway 100,899000,3.0,3.0,"Nashville, TN, 37221",3596.0
+2510 Ridgewood Dr,3470000,4.0,5.0,"Nashville, TN, 37215",4366.0
+3410 Shelby Bottoms Bnd,739900,4.0,4.0,"Nashville, TN, 37206",2118.0
+400 McIver St,449000,3.0,3.0,"Nashville, TN, 37211",1407.0
+1410 Rosa L Parks Blvd 60,840000,2.0,2.0,"Nashville, TN, 37208",1878.0
+2805 Alhambra Cir,380000,2.0,1.0,"Nashville, TN, 37207",1050.0
+1110A N 6th St,950000,4.0,3.0,"Nashville, TN, 37207",2208.0
+4958 Edmondson Pike 23,212500,2.0,3.0,"Nashville, TN, 37211",1134.0
+1606 7th Ave N # B,1559000,4.0,4.0,"Nashville, TN, 37208",3034.0
+5515 Country Dr 43,249990,3.0,2.0,"Nashville, TN, 37211",1334.0
+4009 Fairview Dr,349000,3.0,2.0,"Nashville, TN, 37218",1086.0
+1717 Knowles St,469900,,,"Nashville, TN, 37208",
+2824 Westwood Ave 2824,435000,2.0,2.0,"Nashville, TN, 37212",1270.0
+3712 Faulkner Dr,491000,4.0,3.0,"Nashville, TN, 37211",1560.0
+1227 Battlefield Dr,875000,2.0,1.0,"Nashville, TN, 37215",1403.0
+2080 Whitney Ave,485000,3.0,2.0,"Nashville, TN, 37210",1186.0
+159 Antioch Pike,650000,3.0,3.0,"Nashville, TN, 37211",2143.0
+1102 Kellow St,649900,3.0,4.0,"Nashville, TN, 37208",1950.0
+910B Spain Ave,659900,3.0,3.0,"Nashville, TN, 37216",1950.0
+2008 Natchez Trace,1775000,5.0,5.0,"Nashville, TN, 37212",4450.0
+3402 Elkins Ave,1699000,5.0,4.0,"Nashville, TN, 37209",4029.0
+2605D Traughber Dr,620000,3.0,3.0,"Nashville, TN, 37206",2920.0
+3056 Reelfoot Dr,402000,3.0,2.0,"Nashville, TN, 37214",1468.0
+2600 Hillsboro Pike 219,569999,2.0,2.0,"Nashville, TN, 37212",1556.0
+119 Acklen Park Dr 202,850000,3.0,3.0,"Nashville, TN, 37203",1566.0
+721 Lambert Dr,1050000,4.0,3.0,"Nashville, TN, 37220",2769.0
+5017 Hasty Dr,424900,2.0,1.0,"Nashville, TN, 37211",1433.0
+4189 Providence Park Ln,335000,3.0,2.0,"Nashville, TN, 37211",1131.0
+563 McMurray Dr,399900,2.0,1.0,"Nashville, TN, 37211",1156.0
+180 9th Ave N N,1250000,3.0,2.0,"Nashville, TN, 37203",2253.0
+636 Magnolia Ln,525000,3.0,3.0,"Nashville, TN, 37211",2428.0
+2001 Avalon Dr,485000,3.0,2.0,"Nashville, TN, 37216",1912.0
+1124 Battery Ln,1599900,4.0,5.0,"Nashville, TN, 37220",3958.0
+711 Drummond Dr,549000,4.0,2.0,"Nashville, TN, 37211",1628.0
+102 Sheffield Ct,1099000,4.0,3.0,"Nashville, TN, 37215",3117.0
+4958 Edmondson Pike 10,214900,2.0,2.0,"Nashville, TN, 37211",1134.0
+2329 Brittany Dr,549000,3.0,3.0,"Nashville, TN, 37206",1968.0
+953 44th Ave N,17000000,,,"Nashville, TN, 37209",
+515 Basswood Ave 95,219500,2.0,1.0,"Nashville, TN, 37209",968.0
+104 Windsor Terrace Dr,474000,2.0,3.0,"Nashville, TN, 37221",1438.0
+860 Clematis Drive,629000,6.0,4.0,"Nashville, TN, 37205",3060.0
+2060 Nashboro Blvd,295000,3.0,3.0,"Nashville, TN, 37217",1488.0
+3406 Belmont Blvd,3100000,5.0,5.0,"Nashville, TN, 37215",4775.0
+919 Manila Ave,1550000,4.0,4.0,"Nashville, TN, 37206",3244.0
+1406A Lischey Ave,695000,4.0,3.0,"Nashville, TN, 37207",2094.0
+1216 Luckett Rd,1199900,4.0,4.0,"Nashville, TN, 37221",3066.0
+6359 Chickering Cir,1350000,4.0,4.0,"Nashville, TN, 37215",3496.0
+7913 Haydenberry Ct,699900,4.0,4.0,"Nashville, TN, 37221",3575.0
+1003B Summitt Avenue,999900,4.0,4.0,"Nashville, TN, 37203",2905.0
+1003A Summit Avenue,999900,4.0,4.0,"Nashville, TN, 37203",2905.0
+1736 Eastwick Ln,599900,4.0,3.0,"Nashville, TN, 37221",2444.0
+1442 McAlpine Ave,649900,5.0,3.0,"Nashville, TN, 37216",2987.0
+5925 Robertson Ave,599900,3.0,3.0,"Nashville, TN, 37209",1600.0
+1606 16th Ave S B,1299900,4.0,3.0,"Nashville, TN, 37212",1872.0
+1606 16th Ave S,2199800,7.0,5.0,"Nashville, TN, 37212",3006.0
+1708B Allison Pl,799000,3.0,3.0,"Nashville, TN, 37203",2199.0
+701 S 14th St,985000,3.0,3.0,"Nashville, TN, 37206",2610.0
+205 Cherokee Rd,1200000,3.0,4.0,"Nashville, TN, 37205",3116.0
+503 Coffee St,1250000,4.0,5.0,"Nashville, TN, 37208",3457.0
+8618 Gauphin Pl,399990,3.0,3.0,"Nashville, TN, 37211",1320.0
+1118 Litton Ave,319900,1.0,1.0,"Nashville, TN, 37216",883.0
+7453 Sawyer Brown Rd,550000,4.0,3.0,"Nashville, TN, 37209",2280.0
+1740 Haleys Hope Ct,539900,3.0,2.0,"Nashville, TN, 37209",2114.0
+2218 Wickson Ave B,550000,3.0,3.0,"Nashville, TN, 37210",2085.0
+2705 N Highlands Dr,795000,4.0,3.0,"Nashville, TN, 37221",2847.0
+214 Old Hickory Blvd 179,250000,2.0,2.0,"Nashville, TN, 37221",1116.0
+1811 Tammany Drive B,689000,4.0,3.0,"Nashville, TN, 37216",2101.0
+1310 Greenfield Ave,499000,3.0,1.0,"Nashville, TN, 37216",1114.0
+731 Lake Terrace Dr,239900,2.0,2.0,"Nashville, TN, 37217",1024.0
+1510 62nd Ave N,825000,4.0,4.0,"Nashville, TN, 37209",2329.0
+2401B Santi Ave,349900,2.0,1.0,"Nashville, TN, 37208",718.0
+613 Cobble Ct,527000,3.0,3.0,"Nashville, TN, 37211",2424.0
+1606 16th Ave S A,899900,3.0,2.0,"Nashville, TN, 37212",1134.0
+5032 N Hilson Dr,575000,3.0,3.0,"Nashville, TN, 37211",1997.0
+1212 Laurel St #1211,609900,1.0,1.0,"Nashville, TN, 37203",765.0
+1699 Lischey Ave,844900,4.0,3.0,"Nashville, TN, 37207",2417.0
+1108 Kellow St,369900,3.0,2.0,"Nashville, TN, 37208",1000.0
+1110 Stratford Ave,800000,3.0,3.0,"Nashville, TN, 37216",1880.0
+1456 Janie Ave,750000,4.0,3.0,"Nashville, TN, 37216",2150.0
+2861 Old Matthews Rd,359900,3.0,2.0,"Nashville, TN, 37207",1120.0
+1521 Lincoya Bay Dr,399000,3.0,3.0,"Nashville, TN, 37214",1842.0
+1677 54th Ave N 404,389900,1.0,1.0,"Nashville, TN, 37209",705.0
+1677 54th Ave N 406,399900,1.0,1.0,"Nashville, TN, 37209",705.0
+708 S 14th St,649999,,,"Nashville, TN, 37206",
+20 Lucile St,3500000,0.0,,"Nashville, TN, 37207",
+2920 Morningside Dr,590000,3.0,4.0,"Nashville, TN, 37207",1843.0
+1517 Lone Oak Cir,4375000,5.0,9.0,"Nashville, TN, 37215",6857.0
+2206 Monticello Dr,895000,0.61,,"Nashville, TN, 37207",
+1102A Biltmore Dr,925000,4.0,4.0,"Nashville, TN, 37204",3017.0
+1426 McGavock Pike,579000,4.0,2.0,"Nashville, TN, 37216",1918.0
+1215 Villa Pl,750000,3.0,3.0,"Nashville, TN, 37212",1718.0
+1010 Warren St W,650000,3.0,2.0,"Nashville, TN, 37208",1280.0
+5602 Stoneway Trl,624900,3.0,2.0,"Nashville, TN, 37209",1444.0
+2401 Hemingway Dr,1750000,2.0,2.0,"Nashville, TN, 37215",1360.0
+3520 Golf St,493000,3.0,2.0,"Nashville, TN, 37216",1447.0
+301A Fairfax Ave,849000,3.0,3.0,"Nashville, TN, 37212",2365.0
+516 Richmar Dr,599000,3.0,2.0,"Nashville, TN, 37211",1816.0
+6708 Boundary Run,469900,3.0,3.0,"Nashville, TN, 37221",1723.0
+801 Millbrook Cir,625000,3.0,3.0,"Nashville, TN, 37221",2234.0
+2025 Jones Cir,447500,3.0,2.0,"Nashville, TN, 37207",1086.0
+2433 Fairbrook Dr,525000,3.0,3.0,"Nashville, TN, 37214",2088.0
+1109 Jackson St,675000,3.0,3.0,"Nashville, TN, 37208",1904.0
+100 Buena Vista Ct,420000,3.0,3.0,"Nashville, TN, 37218",2235.0
+7 Peachtree,464900,,,"Nashville, TN, 37210",
+400 Dawn Dr,365000,,,"Nashville, TN, 37211",
+413 Vailview Dr,279900,,,"Nashville, TN, 37207",
+1406 Pennock Ave,979000,4.0,5.0,"Nashville, TN, 37207",3400.0
+1009A Alice St,749900,3.0,3.0,"Nashville, TN, 37218",2464.0
+6311 James Ct,850000,4.0,4.0,"Nashville, TN, 37209",2420.0
+5042 Hill Place Dr,4300000,5.0,6.0,"Nashville, TN, 37205",6298.0
+2515 Sleepy Hollow Dr,699900,3.0,3.0,"Nashville, TN, 37217",2160.0
+6309 James Ct,850000,4.0,4.0,"Nashville, TN, 37209",2420.0
+1901B Warfield Dr,1250000,3.0,4.0,"Nashville, TN, 37215",2873.0
+1803 Neal Ter,800000,5.0,4.0,"Nashville, TN, 37203",2398.0
+2224 Lindell Ave,1100000,4.0,3.0,"Nashville, TN, 37204",2750.0
+1600 Electric Ave,995000,4.0,4.0,"Nashville, TN, 37206",2202.0
+213 Boxmere Pl,589000,2.0,3.0,"Nashville, TN, 37215",1463.0
+4924 Clarksville Hwy,2100000,4.0,4.0,"Nashville, TN, 37189",5723.0
+139 Kenner Ave,1049000,3.0,3.0,"Nashville, TN, 37205",2252.0
+1320 McAlpine Ave,410000,2.0,1.0,"Nashville, TN, 37216",1540.0
+2762 Rock Wall Rd,1295000,4.0,4.0,"Nashville, TN, 37221",4022.0
+3590 Mayflower Pl,1200000,5.0,5.0,"Nashville, TN, 37204",3308.0
+1903 10th Ave N A,639900,3.0,3.0,"Nashville, TN, 37208",2291.0
+209 54th Ave N,1100000,4.0,4.0,"Nashville, TN, 37209",3162.0
+1042 Mulberry Way,388900,3.0,2.0,"Nashville, TN, 37207",1324.0
+420 Elysian Fields Rd A19,225000,2.0,2.0,"Nashville, TN, 37211",936.0
+64 Fern Ave 2,699000,3.0,3.0,"Nashville, TN, 37207",1453.0
+1706 Sweetbriar Ave,1895000,4.0,4.0,"Nashville, TN, 37212",3538.0
+1616 West End Ave Unit 2104,1475000,2.0,3.0,"Nashville, TN, 37203",1412.0
+2301 Pennington Bend Rd,1440000,4.0,4.0,"Nashville, TN, 37214",3200.0
+618 Croley Drive,699900,3.0,4.0,"Nashville, TN, 37209",2080.0
+3809 Burrus St,599900,3.0,2.0,"Nashville, TN, 37216",1700.0
+5009 Darlington Dr,600000,3.0,2.0,"Nashville, TN, 37211",1834.0
+520 Norton Ave,379000,3.0,1.0,"Nashville, TN, 37207",1164.0
+4805 Churchwood Dr,4950000,5.0,8.0,"Nashville, TN, 37220",8713.0
+213 3rd Ave N,16680000,11.0,11.0,"Nashville, TN, 37201",13909.0
+305 Church St 304,1950000,2.0,4.0,"Nashville, TN, 37201",2904.0
+821 Hillview Hts,2495000,4.0,5.0,"Nashville, TN, 37204",3765.0
+6318 Edsel Dr,849900,4.0,4.0,"Nashville, TN, 37209",2443.0
+6316 Edsel Dr,849900,4.0,4.0,"Nashville, TN, 37209",2443.0
+2413 Solomon Ln,488000,4.0,3.0,"Nashville, TN, 37207",2080.0
+1030 Hammack Ct,310000,3.0,2.0,"Nashville, TN, 37214",1724.0
+106 Douglas Ave,799000,3.0,4.0,"Nashville, TN, 37207",2474.0
+501 Summit St,875000,4.0,4.0,"Nashville, TN, 37209",2644.0
+608 Annex Ave,6200000,,,"Nashville, TN, 37209",
+501 Rural Hill Rd,379900,3.0,2.0,"Nashville, TN, 37217",1750.0
+105 Autumn Leaves Ln,771000,4.0,3.0,"Nashville, TN, 37221",3993.0
+949 Plateau Pkwy,849900,4.0,3.0,"Nashville, TN, 37205",2252.0
+6620 Holt Rd,1100000,3.0,3.0,"Nashville, TN, 37211",3564.0
+1612 Alayna Dr,650000,4.0,3.0,"Nashville, TN, 37221",2804.0
+3048 Whitland Crossing Dr,380000,3.0,2.0,"Nashville, TN, 37214",1740.0
+909 Beechmont Pl # B,900000,4.0,4.0,"Nashville, TN, 37206",2604.0
+110 The Commons Dr,1800000,3.0,4.0,"Nashville, TN, 37215",4867.0
+2028 Sunset Hills Ter,3390000,4.0,6.0,"Nashville, TN, 37215",7461.0
+6712 Cold Stream Dr,525000,4.0,3.0,"Nashville, TN, 37221",2320.0
+413 35th Ave N A,1036000,4.0,4.0,"Nashville, TN, 37209",2488.0
+1309 Davidson St,450000,2.0,1.0,"Nashville, TN, 37206",750.0
+700 Revels Dr,492000,4.0,3.0,"Nashville, TN, 37207",3023.0
+2605 Woodberry Dr,545000,4.0,3.0,"Nashville, TN, 37214",1927.0
+5821 Fredricksburg Dr,1295000,5.0,4.0,"Nashville, TN, 37215",3371.0
+524 Huntington Ridge Dr,375000,3.0,3.0,"Nashville, TN, 37211",2288.0
+775 Newberry Rd,2795000,5.0,6.0,"Nashville, TN, 37205",5710.0
+7060 Bridgeport Drive,650000,4.0,4.0,"Nashville, TN, 37221",2274.0
+512 Fairfax Ave,3600000,6.0,8.0,"Nashville, TN, 37212",7167.0
+1423 Shelton Ave,799000,4.0,2.0,"Nashville, TN, 37216",2177.0
+128 Sequoyah Ln,564900,3.0,3.0,"Nashville, TN, 37221",2228.0
+4617 Churchwood Dr,1295000,2.0,2.0,"Nashville, TN, 37220",2576.0
+487 Oakley Drive,1095000,5.0,3.0,"Nashville, TN, 37220",2716.0
+913 S 14th St,584900,3.0,2.0,"Nashville, TN, 37206",1408.0
+322 Sylvan Park Ln,679900,3.0,3.0,"Nashville, TN, 37209",1676.0
+538B Moore Ave,899999,3.0,3.0,"Nashville, TN, 37203",2151.0
+1452 Scarcroft Ln,589900,3.0,3.0,"Nashville, TN, 37221",2756.0
+927B Gale Ln,1715000,4.0,4.0,"Nashville, TN, 37204",4090.0
+1235A Battlefield Dr,1200000,4.0,4.0,"Nashville, TN, 37215",4000.0
+1053 General George Patton Rd,355000,3.0,2.0,"Nashville, TN, 37221",1403.0
+113 38th Ave N,1399000,4.0,3.0,"Nashville, TN, 37209",3039.0
+131 Woodmont Blvd A,899000,4.0,4.0,"Nashville, TN, 37205",3512.0
+165 Jefferson Sq,559000,3.0,3.0,"Nashville, TN, 37215",2495.0
+6 Castlewood Ct,3399000,6.0,8.0,"Nashville, TN, 37215",7739.0
+5065 English Village Dr,523000,4.0,4.0,"Nashville, TN, 37211",1865.0
+2820 Mashburn Rd,475000,3.0,2.0,"Nashville, TN, 37210",1904.0
+609 Hogan Rd,874000,3.0,2.0,"Nashville, TN, 37220",2435.0
+631 Bristol Creek Dr,399000,2.0,3.0,"Nashville, TN, 37221",1152.0
+210B Page Rd,1879000,4.0,5.0,"Nashville, TN, 37205",4122.0
+5417 Cochran Dr,720000,4.0,3.0,"Nashville, TN, 37220",2886.0
+3732 Central Ave,1390000,4.0,5.0,"Nashville, TN, 37205",3302.0
+111 Glendale Garden Dr,875000,3.0,3.0,"Nashville, TN, 37204",2452.0
+5806 Hillsboro Pike,3125000,5.0,5.0,"Nashville, TN, 37215",5365.0
+5109 Trousdale Dr,700000,4.0,2.0,"Nashville, TN, 37220",2600.0
+2826 Hartford Dr,699000,3.0,2.0,"Nashville, TN, 37210",1761.0
+3435 Hopkins Street,2100000,5.0,7.0,"Nashville, TN, 37215",5912.0
+5729 Stoneway Trl,999999,5.0,5.0,"Nashville, TN, 37209",4665.0
+421A 35th Ave N Unit A,799000,3.0,4.0,"Nashville, TN, 37209",2556.0
+2709 Glenoaks Dr,529900,4.0,3.0,"Nashville, TN, 37214",2686.0
+604A Hume St,1265000,4.0,4.0,"Nashville, TN, 37208",2713.0
+515 Basswood Ave E54,270000,2.0,1.0,"Nashville, TN, 37209",968.0
+7005 Collinswood Dr,584900,4.0,3.0,"Nashville, TN, 37221",2549.0
+817 3rd Ave N 401,425000,1.0,1.0,"Nashville, TN, 37201",850.0
+3326 Goodland Rd,395000,2.0,1.0,"Nashville, TN, 37211",1344.0
+1762 Hillmont Dr,4395000,5.0,7.0,"Nashville, TN, 37215",7461.0
+1002B Woodmont Blvd,1695000,5.0,5.0,"Nashville, TN, 37204",4257.0
+124 Cross Timbers Dr,395000,3.0,3.0,"Nashville, TN, 37221",1700.0
+1101 18th Ave S 610,500000,2.0,2.0,"Nashville, TN, 37212",1257.0
+1350 Rosa L Parks Blvd 351,525000,1.0,1.0,"Nashville, TN, 37208",931.0
+5212A Michigan Ave,719900,3.0,3.0,"Nashville, TN, 37209",2196.0
+1810 Northview Ave,584000,3.0,3.0,"Nashville, TN, 37216",1761.0
+1130 Delmas Ave,500000,4.0,2.0,"Nashville, TN, 37216",1798.0
+1021 Maplewood Pl,585000,3.0,3.0,"Nashville, TN, 37216",1838.0
+308 Rose Hall,399000,2.0,2.0,"Nashville, TN, 37212",1250.0
+110 31st Ave N 508,749900,2.0,2.0,"Nashville, TN, 37203",1889.0
+1125 10th Ave N 306,675000,2.0,2.0,"Nashville, TN, 37208",1261.0
+1407 Ardee Ave,379999,2.0,1.0,"Nashville, TN, 37216",902.0
+4225 Harding Road 602,295000,1.0,1.0,"Nashville, TN, 37205",880.0
+109 Peak Hill Cir,472900,3.0,2.0,"Nashville, TN, 37211",1559.0
+5344 Hunters Rdg,379000,3.0,2.0,"Nashville, TN, 37211",1135.0
+1007 Chicamauga Ave,425000,2.0,1.0,"Nashville, TN, 37206",831.0
+1500 Lock Rd,4500000,1.0,2.0,"Nashville, TN, 37207",2226.0
+3304A Curtis St,299000,2.0,1.0,"Nashville, TN, 37218",877.0
+605A James Ave,699999,4.0,3.0,"Nashville, TN, 37209",2358.0
+4209A Lone Oak Rd,1699000,4.0,3.0,"Nashville, TN, 37215",3696.0
+1350 Rosa L Parks Blvd 333,399900,1.0,1.0,"Nashville, TN, 37208",672.0
+700 Church St 808,398000,1.0,1.0,"Nashville, TN, 37203",744.0
+2301 Alameda St,500000,3.0,2.0,"Nashville, TN, 37208",1260.0
+511C Chesterfield Ave,739900,3.0,4.0,"Nashville, TN, 37212",1888.0
+1737 Pecan St 4,865000,3.0,4.0,"Nashville, TN, 37208",1814.0
+3242 Viking Road,419000,4.0,2.0,"Nashville, TN, 37218",1292.0
+5313A Illinois Ave,749000,3.0,3.0,"Nashville, TN, 37209",2019.0
+6114 Hill Cir,2350000,4.0,5.0,"Nashville, TN, 37209",4022.0
+1616 West End Ave 3111,1150000,1.0,2.0,"Nashville, TN, 37203",1124.0
+4005 Kennedy Ave,719997,4.0,3.0,"Nashville, TN, 37216",2000.0
+1723 Kingsbury Dr,1095000,4.0,4.0,"Nashville, TN, 37215",3231.0
+1009 Battery Ln,1750000,4.0,5.0,"Nashville, TN, 37220",3798.0
+552 McMurray Dr,599900,5.0,3.0,"Nashville, TN, 37211",3538.0
+3188 Robwood Dr,370000,3.0,2.0,"Nashville, TN, 37207",1175.0
+200 Bermuda Dr,675000,3.0,2.0,"Nashville, TN, 37214",2596.0
+5610 New York Ave,800000,4.0,3.0,"Nashville, TN, 37209",2660.0
+1010 Monroe St,1500000,4.0,5.0,"Nashville, TN, 37208",3674.0
+5208 Louisiana Ave,799900,3.0,3.0,"Nashville, TN, 37209",2248.0
+3524B Sanford Ave,575000,3.0,3.0,"Nashville, TN, 37211",1960.0
+2010 Cedar Ln A,1595000,4.0,5.0,"Nashville, TN, 37212",3511.0
+323 Garfield St,999500,3.0,4.0,"Nashville, TN, 37208",2258.0
+441 Belle Pointe Drive,525000,3.0,2.0,"Nashville, TN, 37221",2238.0
+1820 16th Ave N B,515000,3.0,3.0,"Nashville, TN, 37208",1827.0
+608 Clematis Dr,950000,4.0,4.0,"Nashville, TN, 37205",3786.0
+3507 Wilbur Pl,949900,3.0,3.0,"Nashville, TN, 37204",2343.0
+2609B Alpine Park Ave,695000,4.0,3.0,"Nashville, TN, 37218",2070.0
+605 S 13th St,1585000,5.0,5.0,"Nashville, TN, 37206",3783.0
+720 Croley Dr,672000,3.0,3.0,"Nashville, TN, 37209",1504.0
+907 S 12th St,1799000,4.0,5.0,"Nashville, TN, 37206",3671.0
+414 Munn Rd,1800000,2.88,,"Nashville, TN, 37214",
+3020 Richmond Hill Dr,550000,4.0,3.0,"Nashville, TN, 37207",1873.0
+7277 Charlotte Pike 308,415000,3.0,3.0,"Nashville, TN, 37209",1820.0
+1001 Clifton Ln 6,480000,2.0,2.0,"Nashville, TN, 37204",1241.0
+712 Harding Pl,539900,3.0,3.0,"Nashville, TN, 37211",1536.0
+2110 Portland Ave 304,499900,2.0,1.0,"Nashville, TN, 37212",1082.0
+3013 Medial Ave,3690000,6.0,8.0,"Nashville, TN, 37215",6236.0
+2104 McKennie Ave,950000,5.0,3.0,"Nashville, TN, 37206",2895.0
+940 Gale Ln,510000,2.0,2.0,"Nashville, TN, 37204",1144.0
+0 Newsom Station Road,982350,21.8,,"Nashville, TN, 37221",
+1320 Greenstone Ln,759000,5.0,4.0,"Nashville, TN, 37221",3665.0
+517 Cinnamon Pl,500000,3.0,3.0,"Nashville, TN, 37211",2312.0
+900 20th Ave S Apt 1005,649900,1.0,1.0,"Nashville, TN, 37212",1014.0
+414B Scott Ave,749900,4.0,3.0,"Nashville, TN, 37206",2310.0
+2201 Chickering Ln,3800000,4.0,6.0,"Nashville, TN, 37215",6355.0
+1406B Holly St,750000,3.0,3.0,"Nashville, TN, 37206",2121.0
+1102 Caldwell Ave,2000000,4.0,4.0,"Nashville, TN, 37204",3592.0
+923C Gale Ln,1549000,4.0,4.0,"Nashville, TN, 37204",3581.0
+918B Waldkirch Ave,1100000,3.0,4.0,"Nashville, TN, 37204",2616.0
+2418 Abbott Martin Rd,569900,2.0,2.0,"Nashville, TN, 37215",1163.0
+8319 Saint Danasus Dr,365000,2.0,3.0,"Nashville, TN, 37211",1296.0
+108 Sugarbush Ct,565000,4.0,3.0,"Nashville, TN, 37211",2709.0
+2418 Abbott Martin Rd B,569900,2.0,2.0,"Nashville, TN, 37215",1163.0
+1808A Warfield Dr,1159000,4.0,4.0,"Nashville, TN, 37215",2692.0
+1803 Broadway 630,595000,2.0,1.0,"Nashville, TN, 37203",1056.0
+533 Northcrest Dr,484900,3.0,2.0,"Nashville, TN, 37211",2050.0
+4034 Boyd Dr,499999,3.0,2.0,"Nashville, TN, 37218",2092.0
+516B Snyder Ave,749900,3.0,3.0,"Nashville, TN, 37209",2161.0
+3107B Hillside Rd,379900,3.0,1.0,"Nashville, TN, 37207",1324.0
+1607 Northview Ave,420000,2.0,2.0,"Nashville, TN, 37216",1680.0
+1212 Laurel St 2015,1400000,2.0,2.0,"Nashville, TN, 37203",1221.0
+508 Hilson Ct,484900,3.0,2.0,"Nashville, TN, 37211",1920.0
+509 Hilson Ct,484900,3.0,3.0,"Nashville, TN, 37211",2028.0
+116 Windsor Dr,1499900,4.0,3.0,"Nashville, TN, 37205",3196.0
+1516 Hamden Dr,389900,3.0,3.0,"Nashville, TN, 37211",1638.0
+2624 Morganmeade Dr,493000,3.0,2.0,"Nashville, TN, 37216",1611.0
+3428 Stokesmont Rd,2774900,4.0,5.0,"Nashville, TN, 37215",5703.0
+358 Stephens Valley Blvd,1947975,4.0,5.0,"Nashville, TN, 37221",4073.0
+803 Hillview Hts 204,375000,1.0,1.0,"Nashville, TN, 37204",418.0
+900 20th Ave S 1403,725000,1.0,1.0,"Nashville, TN, 37212",1015.0
+2860 Sugartree Rd,1475900,4.0,3.0,"Nashville, TN, 37215",3050.0
+415 Church St,1095000,2.0,2.0,"Nashville, TN, 37219",1144.0
+3617 Richland Ave,3999999,4.0,6.0,"Nashville, TN, 37205",6676.0
+515 Church St 3011,1245500,2.0,2.0,"Nashville, TN, 37219",1055.0
+2705 Mossdale Dr,379900,3.0,2.0,"Nashville, TN, 37217",1702.0
+7434 George E Horn Rd,700000,4.0,4.0,"Nashville, TN, 37221",3364.0
+925 Youngs Ln,699900,5.0,4.0,"Nashville, TN, 37207",4626.0
+415 Church St 1714,1095000,2.0,2.0,"Nashville, TN, 37219",1144.0
+1616 West End Avenue 2802,2795000,3.0,4.0,"Nashville, TN, 37203",1951.0
+3703A Lealand Ln,1699999,4.0,5.0,"Nashville, TN, 37204",3749.0
+303 Rose Hall,420000,2.0,2.0,"Nashville, TN, 37212",1250.0
+919 Rodney Dr,600000,3.0,2.0,"Nashville, TN, 37205",1982.0
+2911B Snowden Rd,1750000,4.0,5.0,"Nashville, TN, 37204",3815.0
+2617 Ashwood Ave,1950000,5.0,4.0,"Nashville, TN, 37212",4146.0
+1018 W Grove Ave,948000,4.0,4.0,"Nashville, TN, 37203",2909.0
+1440 Beddington Park,2099900,4.0,4.0,"Nashville, TN, 37215",4227.0
+3509 Geneva Cir,995000,5.0,3.0,"Nashville, TN, 37209",3827.0
+555 Church N 2401,895000,2.0,2.0,"Nashville, TN, 37219",1353.0
+1062 General George Patton Rd,439000,3.0,3.0,"Nashville, TN, 37221",1944.0
+4 Peach Blossom Sq,1385000,3.0,3.0,"Nashville, TN, 37205",3480.0
+409 Patterson St,650000,4.0,3.0,"Nashville, TN, 37211",2350.0
+415 Church St 2812,969999,2.0,2.0,"Nashville, TN, 37219",1083.0
+258 Ocala Dr,470000,4.0,2.0,"Nashville, TN, 37211",2100.0
+1807B 5th Ave N,899999,3.0,4.0,"Nashville, TN, 37208",2140.0
+1111 Porter Rd,599900,3.0,1.0,"Nashville, TN, 37206",1716.0
+4226 Hillsboro Pike,475000,2.0,3.0,"Nashville, TN, 37215",1338.0
+8334 Merrymount Dr,799900,5.0,3.0,"Nashville, TN, 37221",3254.0
+2316 Alameda St,630000,2.0,2.0,"Nashville, TN, 37208",1053.0
+2510 Belmont Blvd,2700000,6.0,6.0,"Nashville, TN, 37212",4821.0
+7544 Old Harding Pike,2190000,4.0,6.0,"Nashville, TN, 37221",6786.0
+441 Caledonian Ct,995000,4.0,3.0,"Nashville, TN, 37211",3414.0
+993 Windrowe Dr,599900,4.0,3.0,"Nashville, TN, 37205",1980.0
+517 Bismark Dr,500000,3.0,2.0,"Nashville, TN, 37210",1254.0
+672B Annex Ave,715000,4.0,3.0,"Nashville, TN, 37209",2208.0
+1707 6th Ave N A,799000,4.0,3.0,"Nashville, TN, 37208",2276.0
+6040 Woodland Hills Dr,974900,7.0,6.0,"Nashville, TN, 37211",4678.0
+1212 Laurel St 1013,1295000,2.0,2.0,"Nashville, TN, 37203",1172.0
+4810 Merrill Ln,598000,4.0,2.0,"Nashville, TN, 37211",2268.0
+1929 20th Ave,1650000,4.0,4.0,"Nashville, TN, 37212",4669.0
+1929 20th Ave S,1650000,4.0,4.0,"Nashville, TN, 37212",4669.0
+1723 Underwood St,615000,4.0,3.0,"Nashville, TN, 37208",2216.0
+3415 West End Ave Apt 1102D,255500,1.0,1.0,"Nashville, TN, 37203",755.0
+1319 Lischey Ave,1185000,5.0,4.0,"Nashville, TN, 37207",3565.0
+107 Stoneway Close,713000,4.0,3.0,"Nashville, TN, 37209",2387.0
+4400 Belmont Park Ter 222,688222,3.0,3.0,"Nashville, TN, 37215",2250.0
+1041 E Trinity Ln 315,333999,1.0,1.0,"Nashville, TN, 37216",816.0
+5317 Windypine Dr,549000,5.0,4.0,"Nashville, TN, 37211",2943.0
+814 Dewees Ave B,1699999,5.0,5.0,"Nashville, TN, 37204",3573.0
+902 Bracken Trl,375000,3.0,3.0,"Nashville, TN, 37214",1688.0
+443A Annex Ave,699900,3.0,3.0,"Nashville, TN, 37209",2354.0
+2905 Harbour View Drive,399500,3.0,3.0,"Nashville, TN, 37217",2247.0
+5416 Anchorage Dr,875000,3.0,3.0,"Nashville, TN, 37220",2700.0
+1510 Demonbreun St Apt 606,415000,1.0,1.0,"Nashville, TN, 37203",854.0
+110 31st Ave N 603,675000,2.0,2.0,"Nashville, TN, 37203",1845.0
+2405 Chapman Dr B,1059000,5.0,4.0,"Nashville, TN, 37206",2731.0
+1613B Glen Echo Rd,1149990,3.0,4.0,"Nashville, TN, 37215",3107.0
+309 Lutie St,615000,3.0,3.0,"Nashville, TN, 37210",2168.0
+9 Middleton Park Lane,1998800,5.0,6.0,"Nashville, TN, 37215",5422.0
+818 Neartop Dr,775000,3.0,2.0,"Nashville, TN, 37205",2234.0
+1732 Pecan St A,525000,3.0,3.0,"Nashville, TN, 37208",1598.0
+415 Hill Rd,420000,4.0,3.0,"Nashville, TN, 37220",2172.0
+5406 Burgess Ave,374900,2.0,1.0,"Nashville, TN, 37209",800.0
+3208A Resha Ln,799999,4.0,3.0,"Nashville, TN, 37218",2363.0
+2420 Solomon Ln,450000,4.0,3.0,"Nashville, TN, 37207",1680.0
+615 Old Hickory Blvd 630,400990,2.0,3.0,"Nashville, TN, 37209",1209.0
+2519 Clifton Ave 202,425000,1.0,1.0,"Nashville, TN, 37209",665.0
+110 31st Ave,775000,2.0,2.0,"Nashville, TN, 37203",1889.0
+4231 Franklin Pike,10900000,6.0,7.0,"Nashville, TN, 37204",8700.0
+1256 McAlpine Ave,475000,3.0,2.0,"Nashville, TN, 37216",1197.0
+110 31st Ave N 604,775000,2.0,2.0,"Nashville, TN, 37203",1889.0
+1041 E Trinity Ln 301,349900,1.0,1.0,"Nashville, TN, 37216",770.0
+3851 Saunders Ave,475000,3.0,1.0,"Nashville, TN, 37216",1540.0
+6942 Highland Park Dr,389900,3.0,3.0,"Nashville, TN, 37205",1884.0
+2936 Torbett St,485000,,,"Nashville, TN, 37209",
+2940 Torbett St,485000,,,"Nashville, TN, 37209",
+442 Thunderbird Ct,400000,4.0,2.0,"Nashville, TN, 37209",1838.0
+5821 Robert E Lee Dr,1300000,5.0,4.0,"Nashville, TN, 37215",4088.0
+105 Leake Ave 56,925000,3.0,3.0,"Nashville, TN, 37205",2719.0
+3415 West End Ave 1103,330000,2.0,2.0,"Nashville, TN, 37203",1103.0
+1105 Woodbury Falls Ct,399900,2.0,4.0,"Nashville, TN, 37221",2009.0
+3317 Walton Ln,619000,3.0,3.0,"Nashville, TN, 37216",1849.0
+623A James Ave,739900,3.0,3.0,"Nashville, TN, 37209",1998.0
+1824 6th Ave N,750000,3.0,3.0,"Nashville, TN, 37208",2128.0
+3720 Woodmont Ln,1280000,3.0,3.0,"Nashville, TN, 37215",2276.0
+3612A West End Ave,1995000,4.0,6.0,"Nashville, TN, 37205",4763.0
+4913 Millerwood Dr,685000,4.0,2.0,"Nashville, TN, 37211",2215.0
+2601 Aspen Dr,359900,3.0,2.0,"Nashville, TN, 37208",1293.0
+220 Porter Village Cir,525000,2.0,4.0,"Nashville, TN, 37206",1216.0
+2926 Glenmeade Dr,475000,4.0,4.0,"Nashville, TN, 37216",2031.0
+2609 Landcrest Ct,615000,4.0,5.0,"Nashville, TN, 37213",3102.0
+991 Davidson Dr,520000,3.0,2.0,"Nashville, TN, 37205",1165.0
+1709 Long Ave A,1049900,3.0,3.0,"Nashville, TN, 37206",2501.0
+2601 Hillsboro Pike N1,290000,2.0,1.0,"Nashville, TN, 37212",880.0
+5025 Inglewood Ct E,549999,3.0,2.0,"Nashville, TN, 37216",1600.0
+2609 Alameda St,619000,4.0,3.0,"Nashville, TN, 37208",2100.0
+105 Leake Ave,550000,2.0,2.0,"Nashville, TN, 37205",1518.0
+652A Vernon Ave,884900,3.0,4.0,"Nashville, TN, 37209",2447.0
+1722 7th Ave N,900000,3.0,3.0,"Nashville, TN, 37208",1851.0
+165 Hicks Rd 11,394900,3.0,4.0,"Nashville, TN, 37221",2015.0
+900 20th Ave S 1212,584900,1.0,1.0,"Nashville, TN, 37212",808.0
+224 Joyner Ave,425000,4.0,2.0,"Nashville, TN, 37210",1328.0
+608 Annex Ave A,769900,4.0,4.0,"Nashville, TN, 37209",2446.0
+937 W Greenwood Ave,360000,6.0,3.0,"Nashville, TN, 37206",1482.0
+2900 Primrose Cir,1083390,3.0,3.0,"Nashville, TN, 37212",2211.0
+224 Stonecrest Circle 122,589900,2.0,4.0,"Nashville, TN, 37209",2017.0
+6357 Alamo Pl,499000,3.0,2.0,"Nashville, TN, 37209",2590.0
+217 2nd Ave N,8500000,2.0,6.0,"Nashville, TN, 37201",9217.0
+5045 N Hilson Dr,509900,4.0,2.0,"Nashville, TN, 37211",1625.0
+1225 McAlpine Ave,715000,4.0,3.0,"Nashville, TN, 37216",2060.0
+510 Basswood Ave 11,279900,2.0,2.0,"Nashville, TN, 37209",1170.0
+3947 Crouch Dr,299900,3.0,1.0,"Nashville, TN, 37207",1100.0
+806 Olympic St 306,515000,1.0,1.0,"Nashville, TN, 37203",969.0
+1012 Douglas Ave,499000,3.0,3.0,"Nashville, TN, 37206",1982.0
+4225 Longfellow Dr,479718,3.0,3.0,"Nashville, TN, 37214",1910.0
+2236 Lindell Ave,1100000,4.0,3.0,"Nashville, TN, 37204",2750.0
+835 Russleo Dr,618000,3.0,2.0,"Nashville, TN, 37209",1524.0
+914 Thomas Ave,469900,2.0,1.0,"Nashville, TN, 37216",871.0
+119 Acklen Park Dr 103,929900,3.0,3.0,"Nashville, TN, 37203",1625.0
+1616 West End Ave 2704,1450000,2.0,3.0,"Nashville, TN, 37203",1412.0
+42 E Thompson Ln,479000,3.0,2.0,"Nashville, TN, 37211",2305.0
+987 Windrowe Dr,725000,3.0,3.0,"Nashville, TN, 37205",2077.0
+3116 Cloverwood Dr,450000,3.0,2.0,"Nashville, TN, 37214",1640.0
+515 Basswood Ave 108,212333,1.0,1.0,"Nashville, TN, 37209",703.0
+6107 Hill Cir,1424500,4.0,5.0,"Nashville, TN, 37209",3442.0
+1815 4th Ave N,1399000,4.0,4.0,"Nashville, TN, 37208",3940.0
+4849 Lynn Dr,559999,3.0,2.0,"Nashville, TN, 37211",1408.0
+199 53rd Ave N,704900,2.0,1.0,"Nashville, TN, 37209",750.0
+818 2nd St N,591000,3.0,3.0,"Nashville, TN, 37207",1556.0
+833 Rose Park Dr,589000,3.0,2.0,"Nashville, TN, 37206",2240.0
+1220 Alfred Dr,679900,3.0,2.0,"Nashville, TN, 37205",1799.0
+1127 McChesney Ave,925000,3.0,2.0,"Nashville, TN, 37216",2030.0
+938A Spain Ave,585000,3.0,3.0,"Nashville, TN, 37216",1830.0
+3244 Cloverwood Dr,362000,3.0,2.0,"Nashville, TN, 37214",1125.0
+904 S 13th St,1399000,4.0,4.0,"Nashville, TN, 37206",3042.0
+808 31st Ave N,499000,,,"Nashville, TN, 37209",
+3210 Orleans Dr 1,265000,2.0,1.0,"Nashville, TN, 37212",840.0
+1817 Tyne Blvd,5990000,3.0,5.0,"Nashville, TN, 37215",5810.0
+839B Dewees Ave,1100000,4.0,4.0,"Nashville, TN, 37204",2373.0
+118 Cedar Place Bend,539400,3.0,3.0,"Nashville, TN, 37221",2627.0
+1820A 16th Ave N,515000,3.0,3.0,"Nashville, TN, 37208",1827.0
+34 Shepard St,564900,3.0,2.0,"Nashville, TN, 37210",1396.0
+510 Basswood Ave #8,259900,2.0,2.0,"Nashville, TN, 37209",1200.0
+916A 15th Ave S,1275000,4.0,4.0,"Nashville, TN, 37212",2816.0
+65 Lindsley Ave 210,594500,1.0,1.0,"Nashville, TN, 37210",585.0
+555 Church St 2306,2800000,3.0,4.0,"Nashville, TN, 37219",3077.0
+1104 Greenland Ave,1600000,,,"Nashville, TN, 37216",
+3313 Niagara Dr,349900,3.0,2.0,"Nashville, TN, 37214",1230.0
+924 N 6th St,599000,3.0,2.0,"Nashville, TN, 37207",1464.0
+1806 6th Ave N,1599900,4.0,5.0,"Nashville, TN, 37208",2847.0
+1804 6th Ave N,1599900,4.0,5.0,"Nashville, TN, 37208",2908.0
+1421 Porter Rd 3,665000,3.0,3.0,"Nashville, TN, 37206",2059.0
+1085 Zophi St,575000,4.0,2.0,"Nashville, TN, 37216",3658.0
+1504 Grandview Dr,1565000,5.0,4.0,"Nashville, TN, 37215",3475.0
+2909 Glenmeade Dr,898000,4.0,3.0,"Nashville, TN, 37216",3092.0
+837 Vibe Pl,800000,3.0,3.0,"Nashville, TN, 37216",1527.0
+1206 63rd Ave N,619900,3.0,3.0,"Nashville, TN, 37209",2099.0
+4256 Jamesborough Pl,1085000,3.0,3.0,"Nashville, TN, 37215",3185.0
+1050 E Trinity Ln 1,775000,3.0,3.0,"Nashville, TN, 37216",1540.0
+1306 Lone Oak Cir,3350000,5.0,7.0,"Nashville, TN, 37215",6283.0
+1018 Petway Ave,633000,2.0,3.0,"Nashville, TN, 37206",1392.0
+1225 4th Avenue South,499950,2.0,2.0,"Nashville, TN, 37210",1310.0
+7307 Althorp Way,369900,2.0,3.0,"Nashville, TN, 37211",1368.0
+815 Westview Avenue,3799000,4.0,5.0,"Nashville, TN, 37205",4558.0
+841 Battlefield Dr A,1599000,4.0,4.0,"Nashville, TN, 37204",3180.0
+1143 Battery Ln,2690000,3.0,4.0,"Nashville, TN, 37220",4166.0
+1120A Woodvale Drive,1070000,3.0,3.0,"Nashville, TN, 37204",2690.0
+1121 Granny White Ct,4299000,5.0,7.0,"Nashville, TN, 37204",6681.0
+1412 Meharry Blvd B,599900,4.0,4.0,"Nashville, TN, 37208",2028.0
+301 Demonbreun St 1806,615000,1.0,1.0,"Nashville, TN, 37201",837.0
+2826 Woodlawn Dr,529900,2.0,3.0,"Nashville, TN, 37215",1552.0
+770 Harpeth Trace Dr,499900,2.0,2.0,"Nashville, TN, 37221",1436.0
+1300 Harding Pl,4199923,5.0,8.0,"Nashville, TN, 37215",6899.0
+2004 Rivercliff Dr,1500000,0.0,,"Nashville, TN, 37218",
+2118B Natchez Trce,950000,4.0,3.0,"Nashville, TN, 37212",2652.0
+3104 Trevor St,1199000,3.0,4.0,"Nashville, TN, 37209",3113.0
+1435 Tyne Blvd,2900000,5.0,6.0,"Nashville, TN, 37215",5438.0
+3315 Nevada Ave,1650000,4.0,4.0,"Nashville, TN, 37209",3031.0
+340 Ladybird Dr,399000,4.0,2.0,"Nashville, TN, 37217",1450.0
+6012 Hill Cir A,1995000,5.0,5.0,"Nashville, TN, 37209",3803.0
+1811B Martin St,1199000,3.0,4.0,"Nashville, TN, 37203",2209.0
+278 Blackpool Dr,583000,4.0,3.0,"Nashville, TN, 37211",2681.0
+2912A Lee Davis Rd,649000,3.0,3.0,"Nashville, TN, 37216",2150.0
+5350 Hillsboro Pike,4250000,4.0,4.0,"Nashville, TN, 37215",5005.0
+201 Rolling Fork Ct,1799000,3.0,3.0,"Nashville, TN, 37205",3090.0
+1809 7th Ave N,839650,3.0,4.0,"Nashville, TN, 37208",2399.0
+257 Blackman Rd,599900,,,"Nashville, TN, 37211",
+2009 Castleman Dr,2100000,5.0,4.0,"Nashville, TN, 37215",3995.0
+600 12th Ave S Apt 1904,629000,1.0,1.0,"Nashville, TN, 37203",867.0
+313 Becanni Lane,699900,3.0,4.0,"Nashville, TN, 37209",1920.0
+2610 Meharry Blvd A,675000,3.0,3.0,"Nashville, TN, 37208",2064.0
+506 American Rd,679000,5.0,3.0,"Nashville, TN, 37209",1891.0
+6113 Pinehurst Drive,4290000,6.0,7.0,"Nashville, TN, 37215",7151.0
+1404 Wedgewood Ave,1499999,3.0,4.0,"Nashville, TN, 37212",2700.0
+102 Clydelan Ct,3395000,5.0,8.0,"Nashville, TN, 37205",5369.0
+4213B Farrar Ave,1599000,4.0,4.0,"Nashville, TN, 37215",3800.0
+456 Ewing Ln,479500,3.0,2.0,"Nashville, TN, 37207",1831.0
+1013A Alice St,619000,3.0,3.0,"Nashville, TN, 37218",2040.0
+1103 Caldwell Ave,2495000,5.0,6.0,"Nashville, TN, 37204",4395.0
+2813 Rural Hill Cir,410000,4.0,3.0,"Nashville, TN, 37217",1854.0
+2123 Sharondale Dr,1850000,4.0,4.0,"Nashville, TN, 37215",4264.0
+6728 Sugar Hill Drive,579000,3.0,3.0,"Nashville, TN, 37211",2904.0
+801 Beth Dr,577900,5.0,3.0,"Nashville, TN, 37206",2241.0
+600 12th Ave S 1716,489000,1.0,1.0,"Nashville, TN, 37203",711.0
+1613 23rd Ave N,675000,4.0,3.0,"Nashville, TN, 37208",2687.0
+825 N 5th St,720000,4.0,3.0,"Nashville, TN, 37207",2310.0
+8262 Persia Way S,439900,3.0,3.0,"Nashville, TN, 37211",1727.0
+4641 Mountainview Dr,684999,4.0,3.0,"Nashville, TN, 37215",2860.0
+900 20th Ave S 1002,1375000,2.0,2.0,"Nashville, TN, 37212",1825.0
+9418 Highway 100,399900,3.0,2.0,"Nashville, TN, 37221",1696.0
+500 Landmark Ct,465000,2.0,3.0,"Nashville, TN, 37211",1739.0
+600 12th Ave S 1501,1299999,2.0,2.0,"Nashville, TN, 37203",1250.0
+1109 N 2nd St,375000,2.0,1.0,"Nashville, TN, 37207",1234.0
+6149 Mt Pisgah Rd,1290000,4.0,4.0,"Nashville, TN, 37211",3156.0
+3041 Runabout Dr,550000,9.0,4.0,"Nashville, TN, 37217",3785.0
+929 Taylor Merritt Ct,445000,3.0,2.0,"Nashville, TN, 37209",1188.0
+525 Foundry Dr,419000,3.0,1.0,"Nashville, TN, 37209",
+655 Hicks Rd,381000,3.0,2.0,"Nashville, TN, 37221",1600.0
+6008 Hill Circle Drive,1575000,4.0,5.0,"Nashville, TN, 37209",3366.0
+203 Polk Ave,714000,3.0,3.0,"Nashville, TN, 37210",2532.0
+4026 Ivy Dr,379900,2.0,1.0,"Nashville, TN, 37216",1347.0
+1936 Deep Woods Trl,499000,4.0,3.0,"Nashville, TN, 37214",2926.0
+1603A Porter Ave,699900,3.0,3.0,"Nashville, TN, 37206",2082.0
+270 Tampa Dr J15,109900,1.0,1.0,"Nashville, TN, 37211",728.0
+1328 McAlpine Ave,750000,3.0,1.0,"Nashville, TN, 37216",1490.0
+6048 Deal Ave,279900,2.0,2.0,"Nashville, TN, 37209",900.0
+1015 Aladdin Dr,299900,2.0,2.0,"Nashville, TN, 37217",1131.0
+4718 Briarwood Dr,1399900,5.0,4.0,"Nashville, TN, 37211",3349.0
+3545 Dickerson Pike,950000,1.0,,"Nashville, TN, 37207",
+730 29th Ave N,365000,,,"Nashville, TN, 37209",
+2425 Herman St,540000,0.0,,"Nashville, TN, 37208",
+3911 Albert Dr,3690000,5.0,6.0,"Nashville, TN, 37204",5439.0
+143 Fain St,425000,0.0,,"Nashville, TN, 37210",
+4958 Edmondson Pike 8,204000,2.0,2.0,"Nashville, TN, 37211",1134.0
+2056 Creekland View Blvd,419990,3.0,3.0,"Nashville, TN, 37207",2056.0
+4689 Ridge Bend Dr,380770,3.0,3.0,"Nashville, TN, 37207",1400.0
+181 Carnavon Pkwy,450000,2.85,,"Nashville, TN, 37205",
+2807B Meadow Rose,799000,4.0,3.0,"Nashville, TN, 37206",2252.0
+4515 Skywood Ln,377590,3.0,3.0,"Nashville, TN, 37207",1400.0
+4517 Skywood Ln,375090,3.0,3.0,"Nashville, TN, 37207",1400.0
+4508 Skywood Ln,371090,3.0,3.0,"Nashville, TN, 37207",1400.0
+4695 Ridge Bend Dr,381770,3.0,3.0,"Nashville, TN, 37207",1400.0
+5612 Morrow Rd,339999,2.0,1.0,"Nashville, TN, 37209",1100.0
+2256 Creekland View Blvd,429990,4.0,3.0,"Nashville, TN, 37207",2256.0
+1649 Creekland View Blvd,399990,3.0,2.0,"Nashville, TN, 37207",1649.0
+2000 Creekland View Blvd,414990,3.0,3.0,"Nashville, TN, 37207",2000.0
+1765 Creekland View Blvd,404990,3.0,2.0,"Nashville, TN, 37207",1765.0
+940 Gale Ln 101,515000,2.0,3.0,"Nashville, TN, 37204",1438.0
+432 Murfreesboro Pike 103,199900,1.0,1.0,"Nashville, TN, 37210",462.0
+4600 Georgia Ave,600000,,,"Nashville, TN, 37209",
+1130 Thorncrest Rd,410000,3.0,3.0,"Nashville, TN, 37211",1638.0
+623B James Ave,739900,3.0,3.0,"Nashville, TN, 37209",1998.0
+1808 12th Ave N B,650000,3.0,4.0,"Nashville, TN, 37208",1968.0
+274 Clovernook Dr,364000,3.0,2.0,"Nashville, TN, 37210",1550.0
+160 2nd Ave S 4001,11000000,3.0,5.0,"Nashville, TN, 37201",3970.0
+1319 6th Ave N,1200000,2.0,1.0,"Nashville, TN, 37208",1563.0
+2405 Lloyd Ave,349900,1.03,,"Nashville, TN, 37218",
+2601 Sunset Pl,890000,3.0,3.0,"Nashville, TN, 37212",1855.0
+3437 White Pine Dr,375000,3.0,2.0,"Nashville, TN, 37214",1290.0
+2420 Gardner Ln,499000,2.0,1.0,"Nashville, TN, 37207",966.0
+667 Huntington Pkwy,359000,3.0,2.0,"Nashville, TN, 37211",1943.0
+2419 Eden St,315000,2.0,3.0,"Nashville, TN, 37208",1486.0
+4317 Skyridge Dr,470230,4.0,3.0,"Nashville, TN, 37207",1934.0
+233 Brevard Ct 233,288000,4.0,2.0,"Nashville, TN, 37211",1536.0
+1710 Pecan Street A,600000,4.0,3.0,"Nashville, TN, 37208",2246.0
+7204 S Colony Dr,539900,3.0,3.0,"Nashville, TN, 37221",2740.0
+109 Porter Ter,425000,2.0,3.0,"Nashville, TN, 37206",1134.0
+2315 Whites Creek Pike,1450000,1.37,,"Nashville, TN, 37207",
+500 40th Ave N,575000,0.15,,"Nashville, TN, 37209",
+600 12th Ave S 2012,550000,1.0,1.0,"Nashville, TN, 37203",636.0
+3371 Mimosa Dr,625000,3.0,3.0,"Nashville, TN, 37211",2635.0
+3227 W End Cir,319000,2.0,1.0,"Nashville, TN, 37203",972.0
+920 South Street 409,750000,1.0,1.0,"Nashville, TN, 37203",798.0
+2226A Fox Ave,249900,0.13,,"Nashville, TN, 37210",
+2226B Fox Ave,249900,0.13,,"Nashville, TN, 37210",
+4325 Ashland City Hwy 1,395000,3.0,3.0,"Nashville, TN, 37218",1518.0
+140 Academy Sq,479500,2.0,2.0,"Nashville, TN, 37210",1110.0
+500 Paragon Mills Rd M16,199900,2.0,1.0,"Nashville, TN, 37211",960.0
+3325 William Bailey Dr,449900,3.0,3.0,"Nashville, TN, 37207",2102.0
+1980 Loney Dr,494900,3.0,2.0,"Nashville, TN, 37210",1836.0
+239 Rep John Lewis Way N 308,335900,1.0,1.0,"Nashville, TN, 37219",690.0
+1045 Harold Dr,164999,1.0,1.0,"Nashville, TN, 37217",930.0
+7470 Charlotte Pike #1,310000,2.0,3.0,"Nashville, TN, 37209",1155.0
+255 Stonecrest Circle 119,599900,2.0,4.0,"Nashville, TN, 37209",2017.0
+4487 Post Pl 139,420000,2.0,2.0,"Nashville, TN, 37205",1424.0
+411 32nd Ave S,850000,,,"Nashville, TN, 37212",
+1715 21st Ave N,695000,4.0,3.0,"Nashville, TN, 37208",2657.0
+2521 Clifton Ave 302,450000,1.0,1.0,"Nashville, TN, 37209",665.0
+2315 Shadow Ln,499000,3.0,2.0,"Nashville, TN, 37216",1380.0
+110 Lewis St,299000,4.0,2.0,"Nashville, TN, 37210",1614.0
+322 Yorkshire Cir,325000,2.0,2.0,"Nashville, TN, 37211",1177.0
+2305 Lloyd Ave,3000000,3.0,2.0,"Nashville, TN, 37218",1843.0
+415 Church St 2201,1200000,2.0,2.0,"Nashville, TN, 37219",1465.0
+700 Church St 402,449900,1.0,1.0,"Nashville, TN, 37203",752.0
+2934 Ironwood Dr,410000,3.0,2.0,"Nashville, TN, 37214",1296.0
+3227 Lakeland Dr,400000,3.0,2.0,"Nashville, TN, 37214",1575.0
+1012 Rodney Dr,700000,4.0,2.0,"Nashville, TN, 37205",2024.0
+315 Joyner Ave,649000,4.0,3.0,"Nashville, TN, 37210",2130.0
+460 Summit Oaks Dr,480000,4.0,4.0,"Nashville, TN, 37221",3004.0
+348 Blackman Rd,749900,4.0,3.0,"Nashville, TN, 37211",2997.0
+1212 Laurel St 1506,690000,1.0,1.0,"Nashville, TN, 37203",841.0
+1706 18th Ave S 110,430000,1.0,2.0,"Nashville, TN, 37212",808.0
+805 Cherokee Ave,469900,2.0,3.0,"Nashville, TN, 37207",1100.0
+415 Church St 1709,600000,1.0,1.0,"Nashville, TN, 37219",634.0
+2610 Meharry Blvd B,675000,3.0,3.0,"Nashville, TN, 37208",2064.0
+1904 Blair Blvd,2600000,6.0,6.0,"Nashville, TN, 37212",4800.0
+6612 Fleetwood Dr,795000,2.0,1.0,"Nashville, TN, 37209",1412.0
+511B Haynes St,425000,3.0,3.0,"Nashville, TN, 37207",1379.0
+3853 Faulkner Dr,428000,3.0,3.0,"Nashville, TN, 37211",1624.0
+1003 Kipling Dr,389900,4.0,2.0,"Nashville, TN, 37217",1383.0
+208 Vaughns Gap Rd,1200000,4.0,5.0,"Nashville, TN, 37205",3565.0
+4114 Elder Pl,2250000,4.0,6.0,"Nashville, TN, 37215",4733.0
+624 Westview Ave,4390000,5.0,7.0,"Nashville, TN, 37205",8105.0
+1541 Bending River Drive,505000,3.0,2.0,"Nashville, TN, 37221",1950.0
+2416 Smith Springs Rd,1390000,2.81,,"Nashville, TN, 37217",
+903B Potter Ln,1099900,4.0,4.0,"Nashville, TN, 37206",2724.0
+209 Paragon Mills Rd,325000,3.0,1.0,"Nashville, TN, 37211",1025.0
+4487 Post Pl 170,479900,3.0,3.0,"Nashville, TN, 37205",2042.0
+2842 McGavock Pike,796000,5.0,4.0,"Nashville, TN, 37214",2787.0
+358 Huntington Ridge Dr,312000,3.0,2.0,"Nashville, TN, 37211",1420.0
+5028 Franklin Pike,5800000,7.0,12.0,"Nashville, TN, 37220",11778.0
+513 Saint Jules Ln,359900,2.0,3.0,"Nashville, TN, 37211",1478.0
+614 Westview Ave,3750000,5.0,6.0,"Nashville, TN, 37205",6209.0
+2009 Jones Cir,479000,4.0,2.0,"Nashville, TN, 37207",1936.0
+110 31st Avenue N 401,999900,3.0,3.0,"Nashville, TN, 37203",2504.0
+4011 Havendale Dr,445000,4.0,3.0,"Nashville, TN, 37207",2518.0
+1113 Howard Ave,616000,4.0,5.0,"Nashville, TN, 37216",2473.0
+808 Shelby Ave B,1125000,4.0,5.0,"Nashville, TN, 37206",3501.0
+4521 Winfield Dr,699900,3.0,3.0,"Nashville, TN, 37211",3148.0
+859 Summerly Dr,740000,4.0,3.0,"Nashville, TN, 37209",2118.0
+707 Tral St,659000,3.0,4.0,"Nashville, TN, 37208",2140.0
+6313 Robertson Ave,499000,,,"Nashville, TN, 37209",
+6311 Robertson Ave,499000,,,"Nashville, TN, 37209",
+1903 Manchester Drive,589900,4.0,3.0,"Nashville, TN, 37218",1691.0
+3107 Vanderbilt Pl,1375000,3.0,4.0,"Nashville, TN, 37212",2750.0
+1100 Joseph Ave,800000,5.0,3.0,"Nashville, TN, 37207",3656.0
+5744 Laura Hill Rd,2499000,3.0,3.0,"Nashville, TN, 37215",3136.0
+139 Holly Frst,360000,3.0,3.0,"Nashville, TN, 37221",1875.0
+90 Lutie St,700000,4.0,4.0,"Nashville, TN, 37210",2810.0
+20 Rutledge St 709,1200000,3.0,3.0,"Nashville, TN, 37210",1690.0
+15 S 13th Street,1590000,3.0,4.0,"Nashville, TN, 37206",2689.0
+600 12th Ave S 1101,1079000,2.0,2.0,"Nashville, TN, 37203",1250.0
+2842 Lake Forest Dr,214000,3.0,2.0,"Nashville, TN, 37217",1384.0
+6220 Laredo Ave,425000,3.0,1.0,"Nashville, TN, 37209",912.0
+145 Fain St,425000,0.0,,"Nashville, TN, 37210",
+3612B Woodmont Blvd,4425000,5.0,7.0,"Nashville, TN, 37215",8496.0
+2024 Rosemary Ln,775000,4.0,4.0,"Nashville, TN, 37210",2486.0
+4128 Buenaview Ct,290000,4.0,1.0,"Nashville, TN, 37218",1231.0
+121 Lewis St,625000,4.0,4.0,"Nashville, TN, 37210",2300.0
+1715 Simpkins St,355000,3.0,2.0,"Nashville, TN, 37208",1012.0
+3559 Seneca Forest Dr,299900,3.0,3.0,"Nashville, TN, 37217",1240.0
+0 Delk Ave N,200000,1.57,,"Nashville, TN, 37208",
+4697 Ridge Bend Dr,378270,3.0,3.0,"Nashville, TN, 37207",1400.0
+172 Luna Dr,335000,3.0,1.0,"Nashville, TN, 37211",1598.0
+610 21st Ave N 210,575000,1.0,1.0,"Nashville, TN, 37203",605.0
+1823 Heiman St,399000,3.0,2.0,"Nashville, TN, 37208",1288.0
+8356 Highway 100,2000000,2.0,,"Nashville, TN, 37221",
+303 Criddle St 312,439900,1.0,1.0,"Nashville, TN, 37219",1100.0
+370 Wallace Rd D3,179900,2.0,1.0,"Nashville, TN, 37211",972.0
+3305 Leondale Ter,575000,4.0,3.0,"Nashville, TN, 37207",3500.0
+2138B 18th Ave N,720000,4.0,4.0,"Nashville, TN, 37208",2385.0
+821 Clematis Dr,1300000,3.0,2.0,"Nashville, TN, 37205",1770.0
+2822 Blair Blvd,1185000,,,"Nashville, TN, 37212",
+274 Comroe Rd,365000,3.0,1.0,"Nashville, TN, 37211",1550.0
+5735 Knob Rd,789000,0.91,,"Nashville, TN, 37209",
+212 Summit Ridge Dr,315000,1.0,1.0,"Nashville, TN, 37215",716.0
+432 Murfreesboro Pike 104,199900,1.0,1.0,"Nashville, TN, 37210",462.0
+432 Murfreesboro Pike 305,225000,1.0,1.0,"Nashville, TN, 37210",462.0
+2202A Buena Vista Pk,969900,4.0,5.0,"Nashville, TN, 37218",1995.0
+2202B Buena Vista Pk,959900,4.0,5.0,"Nashville, TN, 37218",1995.0
+1523 Ward Ave,799000,4.0,3.0,"Nashville, TN, 37206",2345.0
+1521 Ward Ave,799000,4.0,3.0,"Nashville, TN, 37206",2345.0
+65 Lindsley Ave 511,575000,1.0,1.0,"Nashville, TN, 37210",585.0
+432 Murfreesboro Pike 306,217900,1.0,1.0,"Nashville, TN, 37210",462.0
+116 Five Oaks Dr,254000,2.0,2.0,"Nashville, TN, 37217",1280.0
+2609 Natchez Trce,750000,3.0,1.0,"Nashville, TN, 37212",1350.0
+411 Wilsonia Avenue,1600000,4.0,4.0,"Nashville, TN, 37205",5210.0
+7946 McCrory Ln,600000,8.0,,"Nashville, TN, 37221",
+1027 E Trinity Ln 4,775000,3.0,4.0,"Nashville, TN, 37216",1660.0
+245 Cherokee Station Dr,1499000,4.0,4.0,"Nashville, TN, 37209",3257.0
+1108 Overton Lea Rd,5500000,4.0,8.0,"Nashville, TN, 37220",7272.0
+1109 Deerhurst Ct,529000,4.0,3.0,"Nashville, TN, 37221",2398.0
+433 E Trinity Ln,1125000,0.29,,"Nashville, TN, 37207",
+435 E Trinity Ln,1125000,5.0,2.0,"Nashville, TN, 37207",2730.0
+901 28th Ave N,289900,,,"Nashville, TN, 37208",
+0 Walker Ln,649900,5.17,,"Nashville, TN, 37207",
+810 Bellevue Rd 120,245000,2.0,2.0,"Nashville, TN, 37221",1058.0
+432 Murfreesboro Pike 206,204900,1.0,1.0,"Nashville, TN, 37210",462.0
+1725 S Hamilton Rd,649900,4.0,2.0,"Nashville, TN, 37218",2200.0
+2929B Vaulx,1999900,5.0,5.0,"Nashville, TN, 37204",3885.0
+1357 Crown Point Pl,399990,3.0,3.0,"Nashville, TN, 37211",1645.0
+63 Glenrock Dr,1495000,4.0,4.0,"Nashville, TN, 37221",3650.0
+920 South St 202,599900,1.0,1.0,"Nashville, TN, 37203",772.0
+1266 Thomas St,950000,3.0,3.0,"Nashville, TN, 37210",1728.0
+2614 Bethwood Dr,358000,4.0,2.0,"Nashville, TN, 37207",1184.0
+2637 Old Matthews Rd,355000,4.0,2.0,"Nashville, TN, 37207",1584.0
+1228F 4th Avenue North,1499900,3.0,3.0,"Nashville, TN, 37208",2211.0
+405 Marshall St Unit 8,619900,3.0,3.0,"Nashville, TN, 37207",1718.0
+405 Marshall St Unit 5,589900,2.0,3.0,"Nashville, TN, 37207",1696.0
+405 Marshall St Unit 2,749900,3.0,4.0,"Nashville, TN, 37207",2179.0
+2509 Vaulx Ln,950000,2.0,1.0,"Nashville, TN, 37204",904.0
+432 Murfreesboro Pike 307,217900,1.0,1.0,"Nashville, TN, 37210",462.0
+3183 Parthenon Ave,699900,4.0,1.0,"Nashville, TN, 37203",1846.0
+4514 Granny White Pike,1500000,3.0,3.0,"Nashville, TN, 37204",2864.0
+0 Dellway,275000,0.68,,"Nashville, TN, 37207",
+920 South Street 104,656000,1.0,1.0,"Nashville, TN, 37203",715.0
+102 Duke St 9,359900,1.0,2.0,"Nashville, TN, 37207",996.0
+441 Harding Pl H7,179000,2.0,1.0,"Nashville, TN, 37211",874.0
+1218 Chester Ave,525000,5.0,2.0,"Nashville, TN, 37206",2120.0
+432 Murfreesboro Pike 203,209900,1.0,1.0,"Nashville, TN, 37210",462.0
+910 Youngs Lane 4,699900,3.0,4.0,"Nashville, TN, 37207",1959.0
+910 Youngs Lane 3,699900,3.0,4.0,"Nashville, TN, 37207",1959.0
+801 Foster Hl,1995000,5.0,5.0,"Nashville, TN, 37215",4827.0
+8710 Gauphin Pl,455900,3.0,3.0,"Nashville, TN, 37211",1646.0
+6600 Cabot Drive,575000,,,"Nashville, TN, 37209",
+515 Church St #3203,465000,1.0,1.0,"Nashville, TN, 37219",640.0
+3102 Curtis St B,1249996,3.0,4.0,"Nashville, TN, 37218",3223.0
+2411 Crestmoor Rd Apt 105,1050000,2.0,2.0,"Nashville, TN, 37215",2072.0
+2401 Valley Brook Rd,6695000,5.0,7.0,"Nashville, TN, 37215",8131.0
+3109 Anderson Pl,594000,3.0,3.0,"Nashville, TN, 37216",1936.0
+515 Church St 3902,565000,1.0,1.0,"Nashville, TN, 37219",704.0
+525 Stacy Square Ter,318000,2.0,2.0,"Nashville, TN, 37221",1400.0
+31 Annandale,5250000,5.0,11.0,"Nashville, TN, 37215",8200.0
+112 Donald St,565000,3.0,3.0,"Nashville, TN, 37207",2072.0
+3067 Casa Dr,259900,2.0,2.0,"Nashville, TN, 37214",1400.0
+515 Church Street #3506,1450000,2.0,2.0,"Nashville, TN, 37219",1053.0
+125 Postwood Pl,1279000,4.0,4.0,"Nashville, TN, 37205",3139.0
+515 Church Street #3506 3506,1450000,2.0,2.0,"Nashville, TN, 37219",1053.0
+2111 Natchez Trce,1849000,5.0,6.0,"Nashville, TN, 37212",4309.0
+600 Bowling Ave,1399000,0.3,,"Nashville, TN, 37215",
+1316 Morton Mill Ct,534000,4.0,3.0,"Nashville, TN, 37221",2730.0
+2408 Alameda Street,400000,2.0,1.0,"Nashville, TN, 37208",736.0
+1311 Tyne Blvd,1395000,1.12,,"Nashville, TN, 37215",
+117B 46th Ave N,1925000,4.0,5.0,"Nashville, TN, 37209",3629.0
+500 Madison St 107,750000,2.0,2.0,"Nashville, TN, 37208",1114.0
+2932 Torbett St,299900,0.0,,"Nashville, TN, 37209",
+441 Harding Pl C2,179900,2.0,2.0,"Nashville, TN, 37211",960.0
+516 Phipps Dr,215000,3.0,2.0,"Nashville, TN, 37218",1032.0
+907 Carolyn Ave B,724900,4.0,3.0,"Nashville, TN, 37216",2432.0
+2437 Batavia St,139000,0.07,,"Nashville, TN, 37208",
+905 N 12th St,995000,,,"Nashville, TN, 37206",
+420 E Bend Dr B,699000,4.0,3.0,"Nashville, TN, 37209",1910.0
+420 E Bend Dr A,699000,4.0,3.0,"Nashville, TN, 37209",1910.0
+905 Otter Creek Rd,399900,1.18,,"Nashville, TN, 37220",
+3631 Hydes Ferry Rd,77500,0.02,,"Nashville, TN, 37218",
+2603 Pennington Ave B,269955,2.0,2.0,"Nashville, TN, 37216",960.0
+2603 Pennington Ave A,267955,2.0,2.0,"Nashville, TN, 37216",960.0
+3621 Hydes Ferry Rd,77500,0.02,,"Nashville, TN, 37218",
+3623 Hydes Ferry Rd,77500,0.02,,"Nashville, TN, 37218",
+510 36th Ave N,375000,0.16,,"Nashville, TN, 37209",
+4345 Skyridge Dr,455870,3.0,2.0,"Nashville, TN, 37207",1420.0
+1604 Lischey Ave,699900,4.0,2.0,"Nashville, TN, 37207",2072.0
+4001 Indiana Ave,450000,0.17,,"Nashville, TN, 37209",
+1816 Timber Grv,150000,0.22,,"Nashville, TN, 37214",
+1032 Herman St,965000,1.0,1.0,"Nashville, TN, 37208",1598.0
+900 19th Ave S 210,349900,1.0,1.0,"Nashville, TN, 37212",550.0
+2215 White Ave,625000,0.19,,"Nashville, TN, 37204",
+1042 Battery Ln B,2495000,6.0,7.0,"Nashville, TN, 37220",5549.0
+824 Templeton Dr,850000,3.0,2.0,"Nashville, TN, 37205",2133.0
+1525 Riverside Dr,795000,,,"Nashville, TN, 37206",
+2819B Hody Dr,250000,0.0,,"Nashville, TN, 37206",
+3702B Estes Rd,499000,0.52,,"Nashville, TN, 37215",
+1614 E Stewarts Ln,1200000,2.0,,"Nashville, TN, 37218",
+4005 Utah Ave,1999000,4.0,6.0,"Nashville, TN, 37209",3654.0
+4012B Wallace,4699000,6.0,9.0,"Nashville, TN, 37215",7498.0
+2815 Acklen Avenue,1300000,,3.0,"Nashville, TN, 37212",2200.0
+1253 Sunnymeade Dr,49900,,,"Nashville, TN, 37216",
+506 Arrington St,385000,3.0,2.0,"Nashville, TN, 37207",1008.0
+1701 Westchester Dr,60000,,,"Nashville, TN, 37207",
+6320 Columbia Ave,549000,3.0,2.0,"Nashville, TN, 37209",1967.0
+1808 State St 307,299900,2.0,2.0,"Nashville, TN, 37203",800.0
+8888 Highway 100,1110000,30.0,,"Nashville, TN, 37221",
+2102 Scovel St,850000,,,"Nashville, TN, 37208",
+917 Winthorne Dr,569900,,,"Nashville, TN, 37217",
+412 Veritas St,299900,4.0,2.0,"Nashville, TN, 37211",1796.0
+415 Lellyett Ave,824900,3.0,4.0,"Nashville, TN, 37209",2133.0
+419 Lellyett Ave,824900,3.0,4.0,"Nashville, TN, 37209",2133.0
+417 Lellyett Ave,824900,3.0,4.0,"Nashville, TN, 37209",2133.0
+413 Lellyett Ave,749900,3.0,4.0,"Nashville, TN, 37209",1934.0
+409 Lellyett Ave,749900,3.0,4.0,"Nashville, TN, 37209",1934.0
+411 Lellyett Ave,749900,3.0,4.0,"Nashville, TN, 37209",1934.0
+407 Lellyett Ave,749900,3.0,4.0,"Nashville, TN, 37209",1934.0
+5750 River Trace,292500,5.14,,"Nashville, TN, 37218",
+0 Davidson Drive,2350000,3.0,,"Nashville, TN, 37205",
+432 Murfreesboro Pike 101,185900,1.0,1.0,"Nashville, TN, 37210",402.0
+0 Dellway,275000,0.68,,"Nashville, TN, 37207",
+1456 Bell Rd,2750000,,,"Nashville, TN, 37211",
+4001 Gallatin Pike,2100000,0.51,,"Nashville, TN, 37216",
+432 Murfreesboro Pike 105,199900,1.0,1.0,"Nashville, TN, 37210",462.0
+1248 1st Ave S,299000,0.09,,"Nashville, TN, 37210",
+1228C 4th Avenue North,1895000,4.0,4.0,"Nashville, TN, 37208",3112.0
+2610 Delk Ave,275000,2.0,1.0,"Nashville, TN, 37208",704.0
+4608 Benton Smith Rd,889900,4.0,3.0,"Nashville, TN, 37215",3159.0
+20 Rutledge St 408,1289000,3.0,2.0,"Nashville, TN, 37210",1764.0
+1710 Linden Ave,3100000,5.0,6.0,"Nashville, TN, 37212",5124.0
+198 Sunset Dr,589900,0.27,,"Nashville, TN, 37207",
+4632 Sawmill Pl,739900,3.0,3.0,"Nolensville, TN, 37135",2800.0
+7628 Kemberton Dr E,549900,5.0,3.0,"Nolensville, TN, 37135",2326.0
+4650 Robin Lane,819900,4.0,3.0,"Nolensville, TN, 37135",2783.0
+5008 Ozment Dr,814990,4.0,4.0,"Nolensville, TN, 37122",2884.0
+5044 Ozment Dr,874990,4.0,4.0,"Nolensville, TN, 37122",2884.0
+619 Silva Ln,1350000,5.0,7.0,"Nolensville, TN, 37135",4563.0
+2139 Sister Ct,699900,4.0,3.0,"Nolensville, TN, 37135",2452.0
+3022 Ozment Dr,710990,3.0,3.0,"Nolensville, TN, 37135",2211.0
+4040 Rosa Dr,799990,4.0,3.0,"Nolensville, TN, 37135",2543.0
+4025 Rosa Dr,649990,3.0,3.0,"Nolensville, TN, 37135",2089.0
+3030 Ozment Dr,659990,3.0,3.0,"Nolensville, TN, 37135",2211.0
+2385 Orchard St,699000,4.0,3.0,"Nolensville, TN, 37135",2790.0
+1017 Wadeslea Ln,980000,4.0,5.0,"Nolensville, TN, 37135",3702.0
+1523 Winding Creek Dr,355000,2.0,3.0,"Nolensville, TN, 37135",1240.0
+5041 Ozment Dr,989000,5.0,4.0,"Nolensville, TN, 37135",3679.0
+1521 Esplanade Dr,1499900,4.0,5.0,"Nolensville, TN, 37135",3814.0
+2036 Catalina Way,1149000,5.0,4.0,"Nolensville, TN, 37135",4066.0
+6063 Yellowstone Dr,749990,3.0,3.0,"Nolensville, TN, 37135",2494.0
+605 Candleshoe Ct,1149000,4.0,4.0,"Nolensville, TN, 37135",3830.0
+1804 Looking Glass Ln,650000,3.0,3.0,"Nolensville, TN, 37135",2426.0
+2215 Carouth Ct,819900,4.0,3.0,"Nolensville, TN, 37135",2553.0
+1121 Angela Ann Ct,1265900,5.0,6.0,"Nolensville, TN, 37135",3973.0
+1109 Angela Ann Ct,1149900,5.0,4.0,"Nolensville, TN, 37135",3242.0
+5032 Ozment Dr,950000,5.0,4.0,"Nolensville, TN, 37135",3679.0
+9721 Clovercroft Rd,995000,3.0,3.0,"Nolensville, TN, 37135",3454.0
+160 Sedona Woods Trl,829000,4.0,3.0,"Nolensville, TN, 37135",3107.0
+2033 Bocage Cir,1124900,4.0,4.0,"Nolensville, TN, 37135",3685.0
+3339 Redmon Hl,749900,4.0,3.0,"Nolensville, TN, 37135",2947.0
+4052 Rosa Dr,737990,4.0,3.0,"Nolensville, TN, 37135",2402.0
+1508 Little Leaf Way,1050000,4.0,4.0,"Nolensville, TN, 37135",2966.0
+631 Mer Rouge Dr,675000,4.0,3.0,"Nolensville, TN, 37135",1994.0
+4048 Rosa Dr,827990,5.0,4.0,"Nolensville, TN, 37135",2877.0
+1035 Magic Mountain Ln,2250000,3.0,4.0,"Nolensville, TN, 37135",3559.0
+4660 Robin Ln,975000,5.0,4.0,"Nolensville, TN, 37135",3501.0
+3216 Saltville Aly,488828,3.0,2.0,"Nolensville, TN, 37135",1599.0
+4645 Genevieve Leigh Drive,1200000,5.0,6.0,"Nolensville, TN, 37135",4183.0
+301 Fishing Ford Ct,849900,4.0,4.0,"Nolensville, TN, 37135",3132.0
+3028 Ballenger Dr,749900,4.0,3.0,"Nolensville, TN, 37135",2861.0
+501 Cedar Brook Ln,689900,4.0,2.0,"Nolensville, TN, 37135",2784.0
+1473 Wolf Creek Dr,1249999,4.0,4.0,"Nolensville, TN, 37135",3963.0
+1003 Flannery Ct,634900,5.0,4.0,"Nolensville, TN, 37135",3419.0
+420 Sweet Fern Dr,949900,4.0,3.0,"Nolensville, TN, 37135",3334.0
+8152 Middlewick Ln,923776,4.0,3.0,"Nolensville, TN, 37135",3432.0
+836 Goswell Dr 4,329900,2.0,2.0,"Nolensville, TN, 37135",1156.0
+4060 Rosa Dr,782790,4.0,3.0,"Nolensville, TN, 37135",2711.0
+4611 Robin Ln,749900,3.0,2.0,"Nolensville, TN, 37135",2397.0
+7167 Nolen Park Cir,825000,5.0,3.0,"Nolensville, TN, 37135",3603.0
+108 Cureton Ct,1650000,4.0,4.0,"Nolensville, TN, 37135",4455.0
+234 Belgian Rd,1795000,5.0,5.0,"Nolensville, TN, 37135",4947.0
+555 Great Angelica Way,990900,4.0,4.0,"Nolensville, TN, 37135",3678.0
+2516 Carmine St,759000,4.0,4.0,"Nolensville, TN, 37135",3257.0
+100 Telfair Ln,1149000,5.0,6.0,"Nolensville, TN, 37135",3911.0
+2161 Kirkwall Dr,649900,3.0,2.0,"Nolensville, TN, 37135",2035.0
+2127 Sister Ct,785000,4.0,3.0,"Nolensville, TN, 37135",2998.0
+1820 Burke Hollow Road,1050000,3.0,2.0,"Nolensville, TN, 37135",3382.0
+812 Edson Ln,999000,3.0,3.0,"Nolensville, TN, 37135",3511.0
+5024 Burke Trl,689900,4.0,3.0,"Nolensville, TN, 37135",2626.0
+105 McCord Ct,549990,4.0,3.0,"Nolensville, TN, 37135",2131.0
+2424 Trivaca Ln,679900,4.0,3.0,"Nolensville, TN, 37135",2501.0
+7164 Nolen Park Cir,688990,3.0,3.0,"Nolensville, TN, 37135",2916.0
+2705 Cortlandt Ln,695000,4.0,3.0,"Nolensville, TN, 37135",2810.0
+1026 Stoneleigh Ln 204,349900,2.0,2.0,"Nolensville, TN, 37135",1156.0
+4791 Jobe Trl,729900,4.0,3.0,"Nolensville, TN, 37135",2618.0
+508 Clemente Ave,1195000,5.0,4.0,"Nolensville, TN, 37135",4129.0
+748 Alameda Ave,999900,5.0,4.0,"Nolensville, TN, 37135",3940.0
+2108 Sister Ct,639000,4.0,3.0,"Nolensville, TN, 37135",2408.0
+117 Kearney Ct,774500,4.0,4.0,"Nolensville, TN, 37135",3215.0
+7355 Nolensville Rd,1500000,5.0,4.0,"Nolensville, TN, 37135",4724.0
+1117 Angela Ann Ct,1299900,5.0,5.0,"Nolensville, TN, 37135",4180.0
+4061 Liberton Way,684900,4.0,4.0,"Nolensville, TN, 37135",2452.0
+1023 Crossfield Dr,1149900,4.0,5.0,"Nolensville, TN, 37135",4660.0
+2208 Steel Ct,1250000,5.0,5.0,"Nolensville, TN, 37135",4461.0
+725 Chard Ln,519900,3.0,4.0,"Nolensville, TN, 37013",2222.0
+1041 Annecy Pkwy,1975000,5.0,6.0,"Nolensville, TN, 37135",5332.0
+1016 Annecy Pkwy,2090000,5.0,7.0,"Nolensville, TN, 37135",5791.0
+820 Novalis St,919990,5.0,4.0,"Nolensville, TN, 37135",3150.0
+816 Novalis St,949900,5.0,4.0,"Nolensville, TN, 37135",3137.0
+9820 Sam Donald Rd,1275000,,,"Nolensville, TN, 37135",
+6827 Nolensville Rd,1500000,1.0,,"Nolensville, TN, 37013",
+819 Novalis St,1199990,5.0,5.0,"Nolensville, TN, 37135",4539.0
+827 Novalis St,1224990,6.0,6.0,"Nolensville, TN, 37135",5441.0
+5048 Evangeline Place,919990,5.0,4.0,"Nolensville, TN, 37135",3084.0
+2518 Broome St,699900,5.0,4.0,"Nolensville, TN, 37135",2767.0
+5044 Evangeline Place,924990,5.0,4.0,"Nolensville, TN, 37135",3143.0
+5040 Evangeline Place,899990,4.0,3.0,"Nolensville, TN, 37135",2804.0
+2231 Broadway St,924990,5.0,4.0,"Nolensville, TN, 37135",3133.0
+3032 Palladian Lane,986000,4.0,4.0,"Nolensville, TN, 37135",2816.0
+2235 Broadway St,959990,5.0,4.0,"Nolensville, TN, 37135",2851.0
+2227 Broadway Street,889990,5.0,4.0,"Nolensville, TN, 37135",3084.0
+2370 Rocky Fork Rd,1790000,8.2,,"Nolensville, TN, 37135",
+0 Warren Hollow Rd,595000,10.26,,"Nolensville, TN, 37135",
+0 Nolensville Rd,999900,29.41,,"Nolensville, TN, 37135",
+1008 Stoneleigh Ln,584900,4.0,4.0,"Nolensville, TN, 37135",2278.0
+2801 McCanless Rd,295000,,,"Nolensville, TN, 37135",
+109 Cureton Court,1499900,5.0,6.0,"Nolensville, TN, 37135",4462.0
+4058 Addie Francis Drive,924990,4.0,4.0,"Nolensville, TN, 37135",2572.0
+4050 Addie Francis Drive,899990,4.0,4.0,"Nolensville, TN, 37135",2645.0
+4054 Addie Francis Drive,849990,4.0,4.0,"Nolensville, TN, 37135",2659.0
+"Nolensville, 37135",734990,3.0,2.0,"Nolensville, TN, 37135",2154.0
+"Nolensville, 37135",759990,3.0,3.0,"Nolensville, TN, 37135",2517.0
+"Nolensville, 37135",659990,3.0,3.0,"Nolensville, TN, 37135",1791.0
+"Nolensville, 37135",649990,3.0,3.0,"Nolensville, TN, 37135",2089.0
+"Nolensville, 37135",599990,3.0,2.0,"Nolensville, TN, 37135",1507.0
+"Nolensville, 37135",754990,4.0,3.0,"Nolensville, TN, 37135",2572.0
+"Nolensville, 37135",718900,3.0,3.0,"Nolensville, TN, 37135",2664.0
+"Nolensville, 37135",754900,3.0,3.0,"Nolensville, TN, 37135",2915.0
+"Nolensville, 37135",757900,4.0,4.0,"Nolensville, TN, 37135",3240.0
+"Nolensville, 37135",791900,4.0,4.0,"Nolensville, TN, 37135",3426.0
+"Nolensville, 37135",802900,4.0,4.0,"Nolensville, TN, 37135",3472.0
+"Nolensville, 37135",813900,4.0,5.0,"Nolensville, TN, 37135",3613.0
+"Nolensville, 37135",820900,5.0,5.0,"Nolensville, TN, 37135",3667.0
+"Nolensville, 37135",789990,4.0,3.0,"Nolensville, TN, 37135",2877.0
+"Nolensville, 37135",689990,3.0,2.0,"Nolensville, TN, 37135",1690.0
+4632 Sawmill Pl,739900,3.0,3.0,"Nolensville, TN, 37135",2800.0
+7628 Kemberton Dr E,549900,5.0,3.0,"Nolensville, TN, 37135",2326.0
+4650 Robin Lane,819900,4.0,3.0,"Nolensville, TN, 37135",2783.0
+5008 Ozment Dr,814990,4.0,4.0,"Nolensville, TN, 37122",2884.0
+5044 Ozment Dr,874990,4.0,4.0,"Nolensville, TN, 37122",2884.0
+619 Silva Ln,1350000,5.0,7.0,"Nolensville, TN, 37135",4563.0
+3022 Ozment Dr,710990,3.0,3.0,"Nolensville, TN, 37135",2211.0
+4040 Rosa Dr,799990,4.0,3.0,"Nolensville, TN, 37135",2543.0
+4025 Rosa Dr,649990,3.0,3.0,"Nolensville, TN, 37135",2089.0
+3030 Ozment Dr,659990,3.0,3.0,"Nolensville, TN, 37135",2211.0
+2385 Orchard St,699000,4.0,3.0,"Nolensville, TN, 37135",2790.0
+1017 Wadeslea Ln,980000,4.0,5.0,"Nolensville, TN, 37135",3702.0
+1523 Winding Creek Dr,355000,2.0,3.0,"Nolensville, TN, 37135",1240.0
+5041 Ozment Dr,989000,5.0,4.0,"Nolensville, TN, 37135",3679.0
+1521 Esplanade Dr,1499900,4.0,5.0,"Nolensville, TN, 37135",3814.0
+2036 Catalina Way,1149000,5.0,4.0,"Nolensville, TN, 37135",4066.0
+6063 Yellowstone Dr,749990,3.0,3.0,"Nolensville, TN, 37135",2494.0
+605 Candleshoe Ct,1149000,4.0,4.0,"Nolensville, TN, 37135",3830.0
+2060 Bocage Cir,1249900,4.0,4.0,"Nolensville, TN, 37135",3830.0
+25 City Terrace,240000,,,"Newburgh, NY, 12550",
+502 Barclay Manor 5B,85000,1.0,1.0,"Newburgh, NY, 12550",638.0
+11 Yeoman Road,400000,3.0,2.0,"Newburgh, NY, 12550",1580.0
+29 Loscerbo Lane,420000,4.0,3.0,"Newburgh, NY, 12550",3202.0
+8 Bellevue Road,274999,2.0,1.0,"Newburgh, NY, 12550",909.0
+18 Homewood Avenue,279000,3.0,1.0,"Newburgh, NY, 12550",960.0
+221 Dubois Street,260000,4.0,3.0,"Newburgh, NY, 12550",1676.0
+25 Dubois Street,325000,9.0,2.0,"Newburgh, NY, 12550",2600.0
+217 Dubois Street,275000,4.0,2.0,"Newburgh, NY, 12550",1966.0
+11 Benkard Avenue,379999,9.0,3.0,"Newburgh, NY, 12550",3222.0
+14 Distillery Path,549900,3.0,2.0,"Newburgh, NY, 12550",3374.0
+1478 Route 300,525000,4.0,2.0,"Newburgh, NY, 12550",1969.0
+81 Liberty Wh Street,657000,7.0,3.0,"Newburgh, NY, 12550",2724.0
+10 Westwood Drive,320000,3.0,1.0,"Newburgh, NY, 12550",960.0
+1 Gusty Road,329000,3.0,1.0,"Newburgh, NY, 12550",950.0
+185 N Miller Street,170000,3.0,2.0,"Newburgh, NY, 12550",1782.0
+74 Liberty Street Wh,480000,4.0,,"Newburgh, NY, 12550",
+274 Gardnertown Road,325000,3.0,1.0,"Newburgh, NY, 12550",1388.0
+Fostertown Road,175000,4.0,,"Newburgh, NY, 12550",
+35 Cocoa Lane,410000,3.0,2.0,"Newburgh, NY, 12550",1725.0
+28 Cedar Court,389000,4.0,3.0,"Newburgh, NY, 12550",2144.0
+8 Central Avenue,698000,9.0,,"Newburgh, NY, 12550",
+462 Liberty Street,474000,7.0,2.0,"Newburgh, NY, 12550",1248.0
+32 Hudson View Terrace,235000,2.0,1.0,"Newburgh, NY, 12550",1074.0
+1050 Maggie Road 1311,350000,2.0,2.0,"Newburgh, NY, 12550",1200.0
+801 Broadway,249000,4.0,1.0,"Newburgh, NY, 12550",1372.0
+913 River Road,169000,4.0,1.0,"Newburgh, NY, 12550",1792.0
+288-292 Lakeside Road,599900,6.0,3.0,"Newburgh, NY, 12550",2112.0
+54 Rock Cut Rd,349000,3.0,2.0,"Newburgh, NY, 12550",2674.0
+12 Town Line Road,339900,3.0,2.0,"Newburgh, NY, 12550",2064.0
+72 Chestnut Lane,320000,2.0,1.0,"Newburgh, NY, 12550",1830.0
+244 Liberty Street,500000,7.0,3.0,"Newburgh, NY, 12550",3369.0
+142 Locust Lane,429000,4.0,3.0,"Newburgh, NY, 12550",2524.0
+3 Distillery Path,534999,3.0,3.0,"Newburgh, NY, 12550",2184.0
+7 Echo Lane,499999,4.0,3.0,"Newburgh, NY, 12550",3286.0
+75 Liberty Street Wh,539000,4.0,3.0,"Newburgh, NY, 12550",3264.0
+2 Balmville Road,795000,7.0,3.0,"Newburgh, NY, 12550",4051.0
+135 Dogwood Lane,595000,4.0,3.0,"Newburgh, NY, 12550",2841.0
+67 Susan Drive,1995000,6.0,6.0,"Newburgh, NY, 12550",9007.0
+18 Breezy Knoll Drive,389900,3.0,2.0,"Newburgh, NY, 12550",2187.0
+195 Montgomery Street,560000,4.0,3.0,"Newburgh, NY, 12550",1612.0
+5 Queens Way,400000,4.0,3.0,"Newburgh, NY, 12550",2118.0
+381 Lakeside Road,1495000,3.0,2.0,"Newburgh, NY, 12550",2215.0
+17 Orchard Heights Drive,374999,3.0,1.0,"Newburgh, NY, 12550",1304.0
+61 Delaware Road,385000,4.0,3.0,"Newburgh, NY, 12550",1970.0
+253 3rd Street,349900,5.0,2.0,"Newburgh, NY, 12550",2140.0
+15 Gail Place,459000,4.0,2.0,"Newburgh, NY, 12550",2266.0
+63 Hy Vue Drive,599999,4.0,3.0,"Newburgh, NY, 12550",2871.0
+225 Montgomery Street,750000,6.0,3.0,"Newburgh, NY, 12550",3583.0
+48 Wesley Court,529000,4.0,4.0,"Newburgh, NY, 12550",2869.0
+106 Carson Avenue,325000,5.0,3.0,"Newburgh, NY, 12550",1824.0
+91 Dubois Street,225000,3.0,2.0,"Newburgh, NY, 12550",3061.0
+515 Park Avenue,299000,3.0,2.0,"Newburgh, NY, 12550",924.0
+4 Ashwood Terrace,399000,3.0,3.0,"Newburgh, NY, 12550",1878.0
+Canterbury Drive Road,199000,6.0,,"Newburgh, NY, 12550",
+145 Chambers Street,249900,3.0,2.0,"Newburgh, NY, 12550",2310.0
+2 Christie Road,339900,4.0,2.0,"Newburgh, NY, 12550",1746.0
+22 Memorial Drive,339000,4.0,2.0,"Newburgh, NY, 12550",2157.0
+215 Colden Hill Road,534999,4.0,3.0,"Newburgh, NY, 12550",1780.0
+281 Powell Avenue,349900,3.0,2.0,"Newburgh, NY, 12550",1512.0
+23 Stacy Lee Drive,529000,4.0,3.0,"Newburgh, NY, 12550",2600.0
+70 Leroy Place,785000,4.0,3.0,"Newburgh, NY, 12550",2637.0
+18 Old South Plank Road,479999,3.0,2.0,"Newburgh, NY, 12550",2367.0
+151 N Fostertown Drive,550000,3.0,4.0,"Newburgh, NY, 12550",4628.0
+284 Liberty Street,545000,3.0,3.0,"Newburgh, NY, 12550",2970.0
+4 Deer Run Road,460000,4.0,2.0,"Newburgh, NY, 12550",2621.0
+44 Winona Avenue,329700,3.0,1.0,"Newburgh, NY, 12550",1106.0
+240 Colden Hill Road,499900,4.0,3.0,"Newburgh, NY, 12550",1884.0
+174 Orchard Street,259900,3.0,1.0,"Newburgh, NY, 12550",1180.0
+129 Johnston Street,160000,7.0,3.0,"Newburgh, NY, 12550",3238.0
+1506 Cortland Drive 15F,149000,2.0,1.0,"Newburgh, NY, 12550",900.0
+1506 Cortland,149000,2.0,1.0,"Newburgh, NY, 12550",864.0
+113-115 Chambers Street,549000,9.0,3.0,"Newburgh, NY, 12550",5588.0
+594 S Plank Road,209500,3.0,2.0,"Newburgh, NY, 12550",1322.0
+1 Tower Road,424900,3.0,2.0,"Newburgh, NY, 12550",1472.0
+43 Lutheran Street,255000,4.0,2.0,"Newburgh, NY, 12550",1824.0
+9 Echo Lane,749000,7.0,5.0,"Newburgh, NY, 12550",3119.0
+162 Dubois Street,225000,,,"Newburgh, NY, 12550",
+14 Norton Street,230000,3.0,1.0,"Newburgh, NY, 12550",1056.0
+16 Hideaway Lane,550000,4.0,3.0,"Newburgh, NY, 12550",4091.0
+170 Montgomery Street,720000,8.0,4.0,"Newburgh, NY, 12550",4417.0
+11 Hopeview Court,739000,4.0,4.0,"Newburgh, NY, 12550",4600.0
+44 Williams Avenue,525000,4.0,3.0,"Newburgh, NY, 12550",2684.0
+25 Sherman Drive,260000,3.0,2.0,"Newburgh, NY, 12550",1000.0
+21 Loscerbo Lane,575000,4.0,4.0,"Newburgh, NY, 12550",3336.0
+50 Chestnut Lane,300000,3.0,2.0,"Newburgh, NY, 12550",1556.0
+338 Robinson Avenue,279000,3.0,1.0,"Newburgh, NY, 12550",988.0
+2 Gala Drive,599000,4.0,4.0,"Newburgh, NY, 12550",3000.0
+98 Lattintown Road,278000,3.0,1.0,"Newburgh, NY, 12550",1848.0
+16 Carroll Street,309999,2.0,2.0,"Newburgh, NY, 12550",1722.0
+74 Lander Street,255000,,,"Newburgh, NY, 12550",
+6 Washington Place,237000,2.0,2.0,"Newburgh, NY, 12550",912.0
+2 Park Place C3D,395000,2.0,2.0,"Newburgh, NY, 12550",1473.0
+5421 Route 9W,339000,,,"Newburgh, NY, 12550",
+117 Lander Street,125000,,,"Newburgh, NY, 12550",
+119 Lander Street,125000,,,"Newburgh, NY, 12550",
+404 Parr Meadow Drive 4D,164447,2.0,1.0,"Newburgh, NY, 12550",880.0
+86 Johnston Street,245000,5.0,2.0,"Newburgh, NY, 12550",1260.0
+109 Bennett Road,239000,3.0,3.0,"Newburgh, NY, 12550",2272.0
+57 Lexington Drive,739000,6.0,5.0,"Newburgh, NY, 12550",5021.0
+28 Poplar Street,275000,3.0,2.0,"Newburgh, NY, 12550",1440.0
+1162 Maggie Road 93,300000,2.0,2.0,"Newburgh, NY, 12550",1149.0
+1201 McIntosh Place 12A,129900,2.0,1.0,"Newburgh, NY, 12550",864.0
+1212 River View Court,589999,2.0,3.0,"Newburgh, NY, 12550",2417.0
+29 Sylvan Park Drive,500000,4.0,3.0,"Newburgh, NY, 12550",2652.0
+131 Renwick Street,450000,9.0,3.0,"Newburgh, NY, 12550",2808.0
+127 Locust Lane,499000,4.0,3.0,"Newburgh, NY, 12550",2206.0
+105 Parkview Street S,279900,2.0,1.0,"Newburgh, NY, 12550",910.0
+105 Parkview S Street,279900,2.0,1.0,"Newburgh, NY, 12550",910.0
+516 Center Street,329000,3.0,2.0,"Newburgh, NY, 12550",1425.0
+28 N Fostertown Drive,280413,4.0,2.0,"Newburgh, NY, 12550",1260.0
+44 Thompson Street,239900,2.0,1.0,"Newburgh, NY, 12550",816.0
+147 W Parmenter Street,275000,3.0,2.0,"Newburgh, NY, 12550",1008.0
+87 Cronomer Heights Drive,649000,2.0,2.0,"Newburgh, NY, 12550",2661.0
+87 Cronomer Hts Drive,649000,2.0,2.0,"Newburgh, NY, 12550",2661.0
+Route 32,39900,1.0,,"Newburgh, NY, 12550",
+228 Carter Avenue,344900,3.0,2.0,"Newburgh, NY, 12550",1790.0
+127 Highland Avenue,89999,0.0,,"Newburgh, NY, 12550",
+125 Highland Avenue,89999,1.0,,"Newburgh, NY, 12550",
+129 Highland Avenue,89999,0.0,,"Newburgh, NY, 12550",
+482 Liberty Street,350000,5.0,2.0,"Newburgh, NY, 12550",2846.0
+22 Loscerbo Lane,599000,3.0,4.0,"Newburgh, NY, 12550",4233.0
+56 Van Ness Street,239000,6.0,2.0,"Newburgh, NY, 12550",1500.0
+228 Grand Street A,500000,,,"Newburgh, NY, 12550",
+85 Henry Avenue,255000,3.0,2.0,"Newburgh, NY, 12550",1200.0
+28 Wintergreen Avenue,255000,3.0,2.0,"Newburgh, NY, 12550",1632.0
+309 Liberty Street,315000,3.0,3.0,"Newburgh, NY, 12550",1225.0
+446 First Street,285000,3.0,2.0,"Newburgh, NY, 12550",1525.0
+169 Holmes Road,199000,3.0,2.0,"Newburgh, NY, 12550",2214.0
+11 Chestnut Street,229900,2.0,1.0,"Newburgh, NY, 12550",864.0
+65 North Street,344999,3.0,2.0,"Newburgh, NY, 12550",1724.0
+8 10 S Miller Street,675000,15.0,7.0,"Newburgh, NY, 12550",7360.0
+84 Carpenter Avenue,270000,4.0,2.0,"Newburgh, NY, 12550",1790.0
+39 Susan Drive 0,425000,3.0,2.0,"Newburgh, NY, 12550",1304.0
+516 Lakeside Road,699900,5.0,4.0,"Newburgh, NY, 12550",4600.0
+107 Parr Meadow Drive 1G,215000,2.0,1.0,"Newburgh, NY, 12550",1000.0
+165 Lattintown Rd,88000,3.0,2.0,"Newburgh, NY, 12550",800.0
+26 Nob Circle,299900,3.0,2.0,"Newburgh, NY, 12550",1146.0
+25 Bright Star Dr,599000,6.0,4.0,"Newburgh, NY, 12550",5500.0
+241 Gidney Avenue,224900,2.0,1.0,"Newburgh, NY, 12550",1120.0
+1 Carroll Street,375000,4.0,3.0,"Newburgh, NY, 12550",1600.0
+42 Wesley Court,499500,4.0,3.0,"Newburgh, NY, 12550",2301.0
+282 Liberty Street,279000,,,"Newburgh, NY, 12550",
+5 Lena Lane,459000,3.0,3.0,"Newburgh, NY, 12550",1812.0
+228 Grand Street,500000,,,"Newburgh, NY, 12550",
+14 5th Avenue,299900,2.0,2.0,"Newburgh, NY, 12550",1048.0
+90 Lander Street,249000,,,"Newburgh, NY, 12550",
+65 Lander Street,224999,6.0,2.0,"Newburgh, NY, 12550",1718.0
+14 Ohio Drive,400000,4.0,3.0,"Newburgh, NY, 12550",2051.0
+Oak St & River Road,250000,2.0,,"Newburgh, NY, 12550",
+23 Maywood Drive,625000,4.0,3.0,"Newburgh, NY, 12550",3462.0
+Barbara Drive,149900,2.2,,"Newburgh, NY, 12550",
+Tbd Fifth Ave 5th Ave,50000,2.0,,"Newburgh, NY, 12550",
+218 Renwick Street,309900,3.0,2.0,"Newburgh, NY, 12550",1806.0
+208 Renwick Street,325000,5.0,2.0,"Newburgh, NY, 12550",1796.0
+78 Benkard Avenue,340000,5.0,2.0,"Newburgh, NY, 12550",1968.0
+79 Carson Avenue,289000,4.0,2.0,"Newburgh, NY, 12550",2060.0
+12 Tulip Lane,315000,3.0,1.0,"Newburgh, NY, 12550",1260.0
+28 Flemming Drive,279000,3.0,2.0,"Newburgh, NY, 12550",1000.0
+21 Barton Street,319900,3.0,2.0,"Newburgh, NY, 12550",1060.0
+32 Richman Avenue,299000,4.0,2.0,"Newburgh, NY, 12550",2040.0
+39 Susan Dr,425000,3.0,2.0,"Newburgh, NY, 12550",1304.0
+209 Hy Vue Circle,360000,2.0,1.0,"Newburgh, NY, 12550",1494.0
+52 Susan Drive,625000,3.0,3.0,"Newburgh, NY, 12550",2518.0
+157 Robinson Avenue,400000,4.0,2.0,"Newburgh, NY, 12550",1680.0
+165 Lattintown 61,68900,2.0,1.0,"Newburgh, NY, 12550",780.0
+50 Carson Avenue,305000,5.0,3.0,"Newburgh, NY, 12550",1688.0
+149 W Parmenter Street,95000,2.0,1.0,"Newburgh, NY, 12550",492.0
+111 Larter Avenue,279000,3.0,2.0,"Newburgh, NY, 12550",1628.0
+449 3rd Street,399500,5.0,2.0,"Newburgh, NY, 12550",1560.0
+0 Foxwood Drive,79995,1.0,,"Newburgh, NY, 12550",
+0 Foxwood Drive,79995,1.0,,"Newburgh, NY, 12550",
+Poppy La Lester Clrk Road,350000,7.16,,"Newburgh, NY, 12550",
+Cloud Street,225000,5.8,,"Newburgh, NY, 12550",
+3 Pinnacle Boulevard,1350000,4.0,6.0,"Newburgh, NY, 12550",6083.0
+4 Frozen Ridge Road,249999,5.3,,"Newburgh, NY, 12550",
+Lot 8 Madison Rose Court,137500,1.4,,"Newburgh, NY, 12550",
+6 Avoca Street,289999,4.0,3.0,"Newburgh, NY, 12550",1964.0
+Frozen Ridge Lot 3 Road,89000,1.2,,"Newburgh, NY, 12550",
+Frozen Ridge Lot 2 Road,89000,1.1,,"Newburgh, NY, 12550",
+2 Distillery Path,714900,4.0,5.0,"Newburgh, NY, 12550",5927.0
+1825 Route 300,79000,1.1,,"Newburgh, NY, 12550",
+4 Chelsea View Terrace,2950000,5.0,8.0,"Newburgh, NY, 12550",9293.0
+16 Hilltop Avenue,315000,3.0,1.0,"Newburgh, NY, 12550",1248.0
+9 Arlington Place,284999,6.0,2.0,"Newburgh, NY, 12550",1786.0
+55 Grove Street,245000,4.0,2.0,"Newburgh, NY, 12550",1704.0
+405 Grand Street,449000,3.0,2.0,"Newburgh, NY, 12550",2794.0
+Lakeside Road,1100000,88.1,,"Newburgh, NY, 12550",
+199 Chambers Street,225000,6.0,2.0,"Newburgh, NY, 12550",5342.0
+52 S Miller Street,424999,9.0,3.0,"Newburgh, NY, 12550",2310.0
+86 N Drury Lane,525000,4.0,3.0,"Newburgh, NY, 12550",2210.0
+299 Liberty Street,550000,7.0,4.0,"Newburgh, NY, 12550",3318.0
+9 Sky View Court,275000,2.1,,"Newburgh, NY, 12589",
+391 Liberty Street,248000,4.0,2.0,"Newburgh, NY, 12550",2000.0
+355 Liberty Street,370000,6.0,3.0,"Newburgh, NY, 12550",2740.0
+Summer Drive,1450000,48.8,,"Newburgh, NY, 12550",
+23 Merritt Lane,449999,2.8,,"Newburgh, NY, 12550",
+6 Pond Ridge Crossing,99599,1.0,,"Newburgh, NY, 12550",
+River Road,250000,4.4,,"Newburgh, NY, 12550",
+38 Route 17K,6000000,18.7,,"Newburgh, NY, 12550",
+#12 Anchor Drive,179000,1.1,,"Newburgh, NY, 12550",
+Fletcher Drive,150000,0.16,,"Newburgh, NY, 12550",
+58 Fleetwood Drive,595000,4.0,4.0,"Newburgh, NY, 12550",3146.0
+22 Maywood Road,595000,4.0,4.0,"Newburgh, NY, 12550",3146.0
+Anchor Drive,280000,1.1,,"Newburgh, NY, 12550",
+Chelsea VIEWLOT#15,300000,0.95,,"Newburgh, NY, 12550",
+Chelsea VIEWLOT#11,415000,1.65,,"Newburgh, NY, 12550",
+Chelsea VIEWLOT#4,415000,3.3,,"Newburgh, NY, 12550",
+100 Corporate Boulevard,1600000,2.7,,"Newburgh, NY, 12550",
+147 Gidney Avenue,240000,3.0,1.0,"Newburgh, NY, 12550",1144.0
+149 Wisner Avenue,230000,3.0,1.0,"Newburgh, NY, 12550",1253.0
+157 Chambers Street,274900,,,"Newburgh, NY, 12550",
+Pinnacle Boulevard,1700000,24.0,,"Newburgh, NY, 12550",
+170 Carson Avenue,230000,3.0,1.0,"Newburgh, NY, 12550",1728.0
+58 Larter Avenue,119000,2.0,1.0,"Newburgh, NY, 12550",736.0
+109 Clinton Street,175000,3.0,2.0,"Newburgh, NY, 12550",1120.0
+269 Powell Avenue,185000,3.0,2.0,"Newburgh, NY, 12550",2054.0
+318 Rock Cut Road,49990,2.7,,"Newburgh, NY, 12586",
+River Road Lot # 18,230000,1.65,,"Newburgh, NY, 12553",
+Chelsea VIEWLOT#12,315000,2.9,,"Newburgh, NY, 12550",
+Pinnacle Blvd Lot #,255000,24.0,,"Newburgh, NY, 12550",
+2 Pinnacle Boulevard,245000,1.45,,"Newburgh, NY, 12550",
+Chelsea View Terrace,300000,2.9,,"Newburgh, NY, 12550",
+536 River Road,245000,1.16,,"Newburgh, NY, 12550",
+6 Pinnacle Lot 16 Boulevard,300000,1.0,,"Newburgh, NY, 12550",
+River Lot 18 Road,230000,1.66,,"Newburgh, NY, 12553",
+1 Pinnacle Boulevard,255000,1.0,,"Newburgh, NY, 12550",
+386 Lakeside Lot 3 Road,139000,5.0,,"Newburgh, NY, 12550",
+"Newburgh, 12550",798000,5.0,,"Newburgh, NY, 12550",
+"Newburgh, 12550",415000,3.29,,"Newburgh, NY, 12550",
+"Newburgh, 12550",415000,1.65,,"Newburgh, NY, 12550",
+183 North Street,290000,3.0,2.0,"Newburgh, NY, 12550",1300.0
+25 City Terrace,240000,,,"Newburgh, NY, 12550",
+502 Barclay Manor 5B,85000,1.0,1.0,"Newburgh, NY, 12550",638.0
+11 Yeoman Road,400000,3.0,2.0,"Newburgh, NY, 12550",1580.0
+29 Loscerbo Lane,420000,4.0,3.0,"Newburgh, NY, 12550",3202.0
+8 Bellevue Road,274999,2.0,1.0,"Newburgh, NY, 12550",909.0
+18 Homewood Avenue,279000,3.0,1.0,"Newburgh, NY, 12550",960.0
+221 Dubois Street,260000,4.0,3.0,"Newburgh, NY, 12550",1676.0
+25 Dubois Street,325000,9.0,2.0,"Newburgh, NY, 12550",2600.0
+217 Dubois Street,275000,4.0,2.0,"Newburgh, NY, 12550",1966.0
+11 Benkard Avenue,379999,9.0,3.0,"Newburgh, NY, 12550",3222.0
+14 Distillery Path,549900,3.0,2.0,"Newburgh, NY, 12550",3374.0
+1478 Route 300,525000,4.0,2.0,"Newburgh, NY, 12550",1969.0
+81 Liberty Wh Street,657000,7.0,3.0,"Newburgh, NY, 12550",2724.0
+10 Westwood Drive,320000,3.0,1.0,"Newburgh, NY, 12550",960.0
+1 Gusty Road,329000,3.0,1.0,"Newburgh, NY, 12550",950.0
+185 N Miller Street,170000,3.0,2.0,"Newburgh, NY, 12550",1782.0
+74 Liberty Street Wh,480000,4.0,,"Newburgh, NY, 12550",
+274 Gardnertown Road,325000,3.0,1.0,"Newburgh, NY, 12550",1388.0
+Fostertown Road,175000,4.0,,"Newburgh, NY, 12550",
+271 Western Avenue,229000,5.0,,"Albany, NY, 12203",
+70 Frederick Avenue,234900,4.0,2.0,"Albany, NY, 12205",1338.0
+118 N Allen Street,235000,4.0,,"Albany, NY, 12203",
+132 Hamilton Street,207000,4.0,,"Albany, NY, 12207",
+75 New Shaker Road,439800,3.0,2.0,"Albany, NY, 12205",1812.0
+33 Arcadia Court,249000,2.0,1.0,"Albany, NY, 12205",1166.0
+1290 Broadway,180000,3.0,1.0,"Albany, NY, 12204",1480.0
+44 Alexander Street,199000,6.0,,"Albany, NY, 12202",
+198 Holmes Dale,399900,4.0,3.0,"Albany, NY, 12208",2411.0
+3 Kakely Street,274900,4.0,4.0,"Albany, NY, 12208",1816.0
+1 Hawthorne Avenue,279900,4.0,3.0,"Albany, NY, 12203",1800.0
+131 Shaker Road,249900,3.0,2.0,"Albany, NY, 12211",876.0
+3 Elberon Place,3300000,29.0,,"Albany, NY, 12203",
+23 Twiller Street,179900,3.0,1.0,"Albany, NY, 12209",1246.0
+1025 Washington Ave Avenue,279900,3.0,2.0,"Albany, NY, 12206",2106.0
+118 Philip Street,339000,5.0,,"Albany, NY, 12202",
+49 Albany Street,149900,3.0,2.0,"Albany, NY, 12204",1932.0
+36 Woodridge Street,229000,3.0,1.0,"Albany, NY, 12203",1176.0
+25B Pine Lane Apt 2,150000,2.0,1.0,"Albany, NY, 12203",870.0
+17 Belvidere Avenue,310000,4.0,3.0,"Albany, NY, 12203",1957.0
+30 Myers Court,310000,3.0,2.0,"Albany, NY, 12205",1665.0
+7 Delafield Drive,239900,3.0,1.0,"Albany, NY, 12205",1188.0
+258 1st Street,114000,6.0,,"Albany, NY, 12206",
+77 Dove Street,279000,4.0,,"Albany, NY, 12210",
+261 Quail Street,89900,5.0,,"Albany, NY, 12203",
+00 Old Myers Drive,74900,0.56,,"Albany, NY, 12205",
+6 Kensington Place,269900,3.0,3.0,"Albany, NY, 12209",1212.0
+23 Slingerland Street,89900,2.0,2.0,"Albany, NY, 12202",1476.0
+14 Governor Circle,285000,2.0,2.0,"Albany, NY, 12208",1640.0
+17 Holland Avenue,265000,6.0,,"Albany, NY, 12209",
+17 Katherine Road,199000,3.0,2.0,"Albany, NY, 12205",1061.0
+275 Third Street,184900,6.0,,"Albany, NY, 12206",
+6 Garden Street,49000,2.0,1.0,"Albany, NY, 12209",660.0
+91 Delaware Avenue,379900,6.0,,"Albany, NY, 12202",
+306 Sheridan Avenue,199900,6.0,,"Albany, NY, 12206",
+379 Madison Avenue,269900,4.0,,"Albany, NY, 12210",
+378 Madison Avenue,269900,3.0,,"Albany, NY, 12210",
+13 Cuyler Avenue,215000,4.0,,"Albany, NY, 12209",
+539 Hamilton Street,350000,8.0,,"Albany, NY, 12203",
+1 Myrtle Avenue,229900,6.0,,"Albany, NY, 12202",
+35 Clermont Street,220000,3.0,1.0,"Albany, NY, 12203",1336.0
+325 Consaul Road,369000,3.0,2.0,"Albany, NY, 12205",1542.0
+59 Pinewood Ave Avenue,225000,4.0,2.0,"Albany, NY, 12208",1992.0
+535 Sand Creek Road,525000,5.0,3.0,"Albany, NY, 12205",2127.0
+74 Ramsey Place,249900,4.0,2.0,"Albany, NY, 12208",1756.0
+51 Aspen Circle,384900,4.0,3.0,"Albany, NY, 12208",2250.0
+80 Osborne Road,170000,6.0,,"Albany, NY, 12205",
+78 Osborne Road,195000,4.0,,"Albany, NY, 12205",
+427 W Lawrence Street,474900,3.0,3.0,"Albany, NY, 12208",2300.0
+8 Ash Grove Place 5,249000,2.0,2.0,"Albany, NY, 12202",1728.0
+792 Cortland Street,349700,4.0,4.0,"Albany, NY, 12203",2422.0
+81 Mordella Rd Road,249900,3.0,2.0,"Albany, NY, 12205",1500.0
+61 Bentwood Court,399900,6.0,4.0,"Albany, NY, 12203",2230.0
+183 First Street,139000,5.0,,"Albany, NY, 12210",
+18 Wicken Square,295900,3.0,2.0,"Albany, NY, 12205",1628.0
+536 Morris Street St,270000,8.0,,"Albany, NY, 12208",
+399 State Street Apt 404,124500,,1.0,"Albany, NY, 12210",424.0
+4 Braintree Street,189000,2.0,1.0,"Albany, NY, 12205",844.0
+213 Hackett Blvd,279900,3.0,3.0,"Albany, NY, 12208",1717.0
+1 Lincoln Ave Avenue,275000,6.0,,"Albany, NY, 12206",
+3 Davis Court,399900,4.0,3.0,"Albany, NY, 12208",2514.0
+337 3rd Street,215000,6.0,,"Albany, NY, 12206",
+11 N Greenway,335000,4.0,2.0,"Albany, NY, 12208",1668.0
+73 Eileen Street,279000,5.0,3.0,"Albany, NY, 12203",2002.0
+60 Ten Eyck Avenue,325900,6.0,,"Albany, NY, 12209",
+130 Sand Creek Road,199000,2.0,1.0,"Albany, NY, 12205",1518.0
+3 Keystone Court,399900,4.0,3.0,"Albany, NY, 12205",2000.0
+11 N Pine Avenue,269000,6.0,3.0,"Albany, NY, 12203",3385.0
+5 Farnam Place,299900,4.0,2.0,"Albany, NY, 12205",1660.0
+11 Grace Street,290000,3.0,2.0,"Albany, NY, 12205",1658.0
+182 Whitehall Road,249900,4.0,2.0,"Albany, NY, 12209",1624.0
+213 Livingston Avenue,53900,3.0,1.0,"Albany, NY, 12210",1100.0
+321 State Street,679900,4.0,4.0,"Albany, NY, 12210",2573.0
+152 Chestnut Street,399000,4.0,3.0,"Albany, NY, 12210",2828.0
+101 Pinehurst Avenue,314900,3.0,2.0,"Albany, NY, 12203",1452.0
+39 Mereline Avenue,109900,3.0,1.0,"Albany, NY, 12209",1134.0
+480 Clinton Avenue,185000,5.0,,"Albany, NY, 12206",
+291 Northern Boulevard,149900,6.0,,"Albany, NY, 12210",
+58 Osborne Street,124999,3.0,,"Albany, NY, 12202",
+414 Second Avenue,150000,7.0,,"Albany, NY, 12209",
+128 Lark Street,140000,5.0,,"Albany, NY, 12210",
+14 Central Avenue,200000,6.0,,"Albany, NY, 12210",
+845 Washington Avenue,149900,3.0,3.0,"Albany, NY, 12206",1136.0
+3 Arcadia Avenue,249900,4.0,,"Albany, NY, 12209",
+403 Hackett Boulevard,279900,3.0,2.0,"Albany, NY, 12208",1352.0
+26 Aspen Circle,399800,4.0,3.0,"Albany, NY, 12208",3096.0
+2 Amy Marie Court,339000,4.0,2.0,"Albany, NY, 12205",1860.0
+124 2nd Avenue,154900,5.0,2.0,"Albany, NY, 12202",2257.0
+206 Jay Street,295000,3.0,,"Albany, NY, 12210",
+18 N Allen Street,240000,7.0,,"Albany, NY, 12203",
+187 Shaker Road,274800,5.0,2.0,"Albany, NY, 12211",1816.0
+4 Holmes Court,213500,3.0,1.0,"Albany, NY, 12209",1216.0
+22 Bancroft Street,270000,4.0,2.0,"Albany, NY, 12208",1764.0
+9 Orchard Avenue,239900,3.0,2.0,"Albany, NY, 12203",1035.0
+7 Hazelhurst Avenue,229900,3.0,1.0,"Albany, NY, 12203",1100.0
+71 N Bridge Drive,379000,4.0,2.0,"Albany, NY, 12203",2103.0
+94 Chestnut Street,799900,6.0,,"Albany, NY, 12210",
+9 Birch Hill Road,465000,4.0,4.0,"Albany, NY, 12211",4452.0
+29 Clermont Street,289900,3.0,2.0,"Albany, NY, 12203",1614.0
+469 Ontario,1449000,,,"Albany, NY, 12208",
+17 Pierce St Street,285000,7.0,,"Albany, NY, 12203",
+48 Euclid Avenue,385000,4.0,3.0,"Albany, NY, 12203",3000.0
+23 Rutland Street,159000,4.0,,"Albany, NY, 12209",
+15 Jeanette Street,90000,3.0,1.0,"Albany, NY, 12209",1386.0
+239 Park Avenue,190000,5.0,,"Albany, NY, 12202",
+379 Orange Street,99999,6.0,,"Albany, NY, 12206",
+2 N Manning Boulevard,150000,6.0,,"Albany, NY, 12206",
+129 Green Street 41,80000,1.0,1.0,"Albany, NY, 12202",879.0
+220 Hansen,280000,3.0,2.0,"Albany, NY, 12208",
+248 2nd Street,70000,4.0,,"Albany, NY, 12206",
+688 Central Avenue,350000,10.0,,"Albany, NY, 12206",
+709 Washington Avenue,189900,3.0,1.0,"Albany, NY, 12206",1300.0
+324 Western Avenue,340000,8.0,,"Albany, NY, 12203",
+163 Benson Street,215000,4.0,2.0,"Albany, NY, 12206",1630.0
+458 Yates Street,155900,5.0,1.0,"Albany, NY, 12208",1838.0
+598 Livingston Avenue,120000,6.0,,"Albany, NY, 12206",
+430 3rd Street,145000,8.0,,"Albany, NY, 12206",
+281 2nd Street,125000,7.0,,"Albany, NY, 12206",
+136 Green Street,130000,4.0,,"Albany, NY, 12202",
+307 1st Street,90000,4.0,,"Albany, NY, 12206",
+154 Lark Street,75000,5.0,,"Albany, NY, 12210",
+11 Corlear Street,135000,2.0,1.0,"Albany, NY, 12209",712.0
+80 Grove Avenue,159900,3.0,2.0,"Albany, NY, 12208",1452.0
+24 Beverly Avenue,169500,3.0,1.0,"Albany, NY, 12206",1092.0
+1 Ayre Drive,264900,3.0,2.0,"Albany, NY, 12203",1152.0
+472 Yates Street,145800,4.0,2.0,"Albany, NY, 12208",1204.0
+691 Delaware Avenue,39000,0.95,,"Albany, NY, 12209",
+5 N Elmhurst Avenue,229900,3.0,1.0,"Albany, NY, 12205",1478.0
+2 Tremont Street,250000,4.0,2.0,"Albany, NY, 12205",1752.0
+718 Central Avenue,1500000,18.0,9.0,"Albany, NY, 12206",15368.0
+12 Birch Hill Road,799000,4.0,5.0,"Albany, NY, 12211",3611.0
+46 Croswell St Street,245000,4.0,2.0,"Albany, NY, 12206",1094.0
+717 Washington Avenue,214900,3.0,2.0,"Albany, NY, 12206",1456.0
+868 Lancaster Street,225000,4.0,1.0,"Albany, NY, 12203",2169.0
+347 Madison Avenue,294900,5.0,,"Albany, NY, 12210",
+53 N Manning Boulevard,179900,6.0,,"Albany, NY, 12206",
+27 Hackett Avenue,299900,3.0,,"Albany, NY, 12205",
+85 Vly Road,349000,3.0,2.0,"Albany, NY, 12205",2250.0
+2 Englewood Place,850000,6.0,5.0,"Albany, NY, 12203",7480.0
+24 Victor St Street,309000,4.0,4.0,"Albany, NY, 12206",2002.0
+8 Lynn Drive,35999,0.19,,"Albany, NY, 12205",
+15 N Lake Avenue,350000,8.0,,"Albany, NY, 12203",
+139 Grand Street,249000,5.0,,"Albany, NY, 12202",
+530 Second Street,99900,4.0,,"Albany, NY, 12206",
+390 2nd Street,105000,4.0,,"Albany, NY, 12206",
+28 Lexington Avenue,125000,6.0,,"Albany, NY, 12206",
+47 Watervliet Avenue,125000,5.0,,"Albany, NY, 12206",
+323 1st Street,100000,6.0,,"Albany, NY, 12206",
+399 State St Unit 907 907,99000,1.0,1.0,"Albany, NY, 12210",338.0
+399 State St Unit 308 308,99000,1.0,1.0,"Albany, NY, 12210",341.0
+12 Mereline Avenue,179900,2.0,1.0,"Albany, NY, 12209",918.0
+32A Pine Ln 3,155000,2.0,1.0,"Albany, NY, 12203",870.0
+102 And 96 Van Rensselaer Boulevard,124900,1.57,,"Albany, NY, 12204",
+56 Everett Road,199999,3.0,2.0,"Albany, NY, 12205",1396.0
+130 Krumkill Road,249900,7.0,,"Albany, NY, 12208",
+31 Bertha Street,179900,6.0,,"Albany, NY, 12209",
+524 Hamilton Street,172000,5.0,,"Albany, NY, 12203",
+145 Ontario St,335000,8.0,3.0,"Albany, NY, 12206",3080.0
+81 Columbia St Street,550000,9.0,,"Albany, NY, 12210",
+16 Ten Broeck Place,285000,4.0,,"Albany, NY, 12210",
+18-24 Ten Broeck Place,300000,4.0,,"Albany, NY, 12210",
+16-24 Ten Broeck Place,580000,8.0,,"Albany, NY, 12210",
+357 Clinton Ave Avenue,235000,4.0,,"Albany, NY, 12206",
+10 Zuni Street,24900,0.0,,"Albany, NY, 12208",
+52 Wilshire Drive,275000,3.0,2.0,"Albany, NY, 12205",1986.0
+560 North Pearl Street,550000,12.0,,"Albany, NY, 12204",
+300 State Street,1100000,6.0,,"Albany, NY, 12210",
+590 Livingston Avenue,139000,3.0,,"Albany, NY, 12206",
+37 Hurlbut Street,210000,6.0,,"Albany, NY, 12209",
+14 Emerson,439400,3.0,3.0,"Albany, NY, 12159",2159.0
+17 Homestead Avenue,305000,6.0,,"Albany, NY, 12203",
+357 Manning Boulevard,242500,4.0,,"Albany, NY, 12206",
+9 Joseph Terrace,449000,7.0,4.0,"Albany, NY, 12203",3064.0
+192 Ontario Street,719000,7.0,,"Albany, NY, 12203",
+519 Washington Avenue,99900,2.0,1.0,"Albany, NY, 12206",960.0
+17 Chapel Street 405,449900,2.0,2.0,"Albany, NY, 12210",1650.0
+269 Elk Street,165000,4.0,,"Albany, NY, 12206",
+611 Clinton Avenue,165000,6.0,,"Albany, NY, 12206",
+26 Lexington Avenue,130000,6.0,,"Albany, NY, 12206",
+476 Clinton Avenue,120000,4.0,,"Albany, NY, 12206",
+399 State St 907,99000,,1.0,"Albany, NY, 12210",338.0
+399 State St 308,99000,,1.0,"Albany, NY, 12210",341.0
+155 Lark,75000,7.0,3.0,"Albany, NY, 12210",2861.0
+66 Robin Street,84999,3.0,,"Albany, NY, 12206",
+99 Columbia St Street,550000,8.0,,"Albany, NY, 12210",
+353 3rd Street,234900,8.0,,"Albany, NY, 12206",
+137 4th Avenue,170000,5.0,,"Albany, NY, 12202",
+95 N Allen Street,425000,6.0,,"Albany, NY, 12203",
+327 Madison Avenue,449000,5.0,4.0,"Albany, NY, 12210",2688.0
+241 First Street,69999,5.0,,"Albany, NY, 12206",
+0 McCormack Road,65000,12.6,,"Albany, NY, 12208",
+0 McCormack Road,65000,12.6,,"Albany, NY, 12208",
+428 Magazine St Street,264900,4.0,2.0,"Albany, NY, 12203",2051.0
+36 Fairfield Avenue,429900,5.0,,"Albany, NY, 12205",
+450 Clinton Ave Avenue,199000,5.0,3.0,"Albany, NY, 12206",2644.0
+32 2nd Avenue,180000,4.0,,"Albany, NY, 12202",
+82 Oxford Road,289900,4.0,2.0,"Albany, NY, 12203",1732.0
+5 Robin Street,99999,2.0,2.0,"Albany, NY, 12206",1320.0
+436 Magazine Street,325000,6.0,,"Albany, NY, 12203",
+412 2nd Avenue,249999,6.0,2.0,"Albany, NY, 12209",
+33 Myrtle Avenue,174900,4.0,,"Albany, NY, 12202",
+555 Washington Avenue,269900,6.0,,"Albany, NY, 12206",
+108 4th Avenue,15000,0.07,,"Albany, NY, 12202",
+64 Alexander Street,24000,0.03,,"Albany, NY, 12202",
+53 Sand Creek Road,259000,5.0,,"Albany, NY, 12205",
+1 Andriana Lane,425000,3.0,3.0,"Albany, NY, 12204",2306.0
+39 Irving Street,283000,2.0,,"Albany, NY, 12202",
+6 Ormond Street,210000,2.0,1.0,"Albany, NY, 12203",1123.0
+645 Cortland Street,518000,4.0,4.0,"Albany, NY, 12203",3858.0
+252-254 2nd Ave,25000,0.12,,"Albany, NY, 12209",
+3 Cuyler Street,110000,4.0,,"Albany, NY, 12202",
+56 Liebel Street,126000,3.0,1.0,"Albany, NY, 12202",880.0
+141 Everett Road,335000,3.0,2.0,"Albany, NY, 12205",1326.0
+16-22 Trinity Place,995000,16.0,,"Albany, NY, 12202",
+15 Oneida Terrace,225000,5.0,,"Albany, NY, 12209",
+563 S Pearl Street,65000,0.0,,"Albany, NY, 12202",
+70 Osborne Street,69900,3.0,1.0,"Albany, NY, 12202",960.0
+540 Western Avenue,625000,5.0,,"Albany, NY, 12203",
+409 Elk,185000,6.0,2.0,"Albany, NY, 12206",
+28 Robin Street,575000,9.0,,"Albany, NY, 12206",
+183 N Main Avenue,799000,10.0,,"Albany, NY, 12206",
+555 1st Street,139000,6.0,,"Albany, NY, 12206",
+38 Southern Boulevard,129900,3.0,1.0,"Albany, NY, 12209",1132.0
+284 Morton Avenue,160000,6.0,,"Albany, NY, 12209",
+79 Morris Road,45900,0.48,,"Albany, NY, 12304",
+119 Chestnut,287000,4.0,3.0,"Albany, NY, 12210",2979.0
+81 Morris Road,49900,0.48,,"Albany, NY, 12304",
+326A Consaul Road,25000,0.74,,"Albany, NY, 12205",
+127 Southern Boulevard,575000,3.0,3.0,"Albany, NY, 12209",
+438 Magazine Street,249900,4.0,2.0,"Albany, NY, 12203",1288.0
+231 2nd Avenue,130000,3.0,1.0,"Albany, NY, 12209",1347.0
+527 Hamilton Street,139000,4.0,2.0,"Albany, NY, 12203",1893.0
+491 Myrtle Avenue,180000,3.0,2.0,"Albany, NY, 12208",1566.0
+420 Manning Boulevard,325000,6.0,,"Albany, NY, 12206",
+"Albany, 12211",750400,3.0,2.0,"Albany, NY, 12211",2011.0
+"Albany, 12211",837400,3.0,3.0,"Albany, NY, 12211",3112.0
+"Albany, 12211",785400,3.0,3.0,"Albany, NY, 12211",2706.0
+"Albany, 12211",735400,2.0,3.0,"Albany, NY, 12211",2011.0
+"Albany, 12211",795400,3.0,3.0,"Albany, NY, 12211",2226.0
+"Albany, 12211",705400,2.0,2.0,"Albany, NY, 12211",1976.0
+"Albany, 12211",815400,4.0,3.0,"Albany, NY, 12211",2883.0
+"Albany, 12211",807400,4.0,3.0,"Albany, NY, 12211",2862.0
+271 Western Avenue,229000,5.0,,"Albany, NY, 12203",
+70 Frederick Avenue,234900,4.0,2.0,"Albany, NY, 12205",1338.0
+118 N Allen Street,235000,4.0,,"Albany, NY, 12203",
+132 Hamilton Street,207000,4.0,,"Albany, NY, 12207",
+75 New Shaker Road,439800,3.0,2.0,"Albany, NY, 12205",1812.0
+33 Arcadia Court,249000,2.0,1.0,"Albany, NY, 12205",1166.0
+1290 Broadway,180000,3.0,1.0,"Albany, NY, 12204",1480.0
+44 Alexander Street,199000,6.0,,"Albany, NY, 12202",
+198 Holmes Dale,399900,4.0,3.0,"Albany, NY, 12208",2411.0
+3 Kakely Street,274900,4.0,4.0,"Albany, NY, 12208",1816.0
+1 Hawthorne Avenue,279900,4.0,3.0,"Albany, NY, 12203",1800.0
+131 Shaker Road,249900,3.0,2.0,"Albany, NY, 12211",876.0
+3 Elberon Place,3300000,29.0,,"Albany, NY, 12203",
+23 Twiller Street,179900,3.0,1.0,"Albany, NY, 12209",1246.0
+1025 Washington Ave Avenue,279900,3.0,2.0,"Albany, NY, 12206",2106.0
+118 Philip Street,339000,5.0,,"Albany, NY, 12202",
+49 Albany Street,149900,3.0,2.0,"Albany, NY, 12204",1932.0
+36 Woodridge Street,229000,3.0,1.0,"Albany, NY, 12203",1176.0
+25B Pine Lane Apt 2,150000,2.0,1.0,"Albany, NY, 12203",870.0
